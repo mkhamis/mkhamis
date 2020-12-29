@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "SIRIUS Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -25,11 +25,11 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+### Master projects for University of Glasgow students
+If you are a Master student at University of Glasgow looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 ### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+If you are interested in pursuing a Master degree at University of Glasgow, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
 
 
 <figure>
