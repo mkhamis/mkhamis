@@ -1,85 +1,55 @@
 - name: Mohamed Khamis
-  photo: mkhamis.jpg
-  info: Assistant professor
+  photo: mkhamis.png
+  info: Assistant Professor and Team Lead
   email: mohamed.khamis@glasgow.ac.uk
+  personal_website: http://mkhamis.com/
   number_educ: 1
   education1: PhD from LMU with <a href="">Florian Alt</a> and <a href="">Andreas Bulling</a>
 
 - name: Florian Mathis
   photo: mathis.jpg
   info: PhD student, started Oct 2019
-  email: 
+  email: florian.mathis@glasgow.ac.uk
+  personal_website: http://www.fmathis.com/ 
   number_educ: 2
-  education1: MSc from LMU
-  education2: BSc from LMU
+  education1: MSc from Ludwig Maximilian University of Munich (LMU)
+  education2: BSc from Ludwig Maximilian University of Munich (LMU)
 
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+- name: Yasmeen Abdrabou
+  photo: abdrabou.jpg
+  info: PhD student, started Oct 2019
+  email: yasmeen.essam@unibw.de
   number_educ: 1
-  education1: Master Leiden University with Milan Allan
+  education1: M.Sc. from German University in Cairo (GUC)
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+- name: Norah Alotaibi
+  photo: 
+  info: PhD Student, started Jan 2020
+  email: n.alotaibi.3@research.gla.ac.uk
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: M.Sc. from University of Glasgow
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
+- name: Habiba Farzand
+  photo: 
+  info: PhD Student, started Jan 2021
+  email: 2538185F@student.gla.ac.uk
   number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
+  education1: M.Sc. from University of York
+  education2: B.Sc.
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
+- name: Robin Bretin 
+  photo: 
+  info: PhD Student in the SOCIAL CDT programme, started Oct 2020
+  email: 2605336B@student.gla.ac.uk
   number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  education1: TBC
+  education2: TBC
+  
 
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
-  education3:
-  education4:
-
-- name: Hugo van Bohemen
+- name: Joseph O'Hagan
   photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+  info: PhD student (secondary supervisor), started Oct 2018.
+  email: j.ohagan.1@research.gla.ac.uk
   number_educ: 1
   education1: Leidse Instrumentmakers School
   education2:
@@ -88,8 +58,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="/vacancies">openings</a> for more info.
+  email: mohamed.khamis@glasgow
   number_educ: 0
   education1:
   education2:
