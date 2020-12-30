@@ -12,24 +12,23 @@ We are always looking for new excellent group members. You will have the chance 
 
 ### Current open positions
 
-As part of an EPSRC project on Assessing, Mitigating and Raising Awareness of the Security and Privacy Risks of Thermal Imaging [EP/V008870/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V008870/1), we are looking for a PhD student to start as soon as possible. The studentship is funded is fully funded for 3.5 years on the UK rate, and covers tuition fees and a monthly stipend. International candidates will need to fund the difference in tuition fees using other means. 
+<b>Opening 1</b>: As part of an EPSRC project on Assessing, Mitigating and Raising Awareness of the Security and Privacy Risks of Thermal Imaging [EP/V008870/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V008870/1), we are looking for a PhD student to start as soon as possible. The studentship is funded is fully funded for 3.5 years on the UK rate, and covers tuition fees and a monthly stipend. International candidates will need to fund the difference in tuition fees using other means. 
 
 ### PhD Opportunities
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:mohamed.khamis@glasgow.ac.uk). State briefly why you are interested and include 1) your CV, 2) your publications list and/or your latest thesis (e.g., MSc thesis or final year project report), 3) highlight the experiences and interests that are relevant to the work we do in SIRIUS, and 4) information about your grades so far. No need for a separate cover letter or certificates. 
 
 Apart from the open positions, there are scholarships every year offered by the University of Glasgow and others. 
-<ul>
-<li> Scholarships through the University of Glasgow: deadline for the opportunities below is 31 January every year. More info about the application process can be found [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/): 
-	<ul>
-	<li> EPSRC Studentship: covers tuition fees at the UK rate and offers a monthly stipend. Non-UK students are eligible but note that tuition fees are paid at the UK rate, and not the international one, so you would need to fund the difference using other means. Deadline is 31 January every year. More info [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/). 
-	<li> College of Science and Engineering Studentship: covers full tuition fees at the international rate and offers a monthly stipend. Deadline is 31 January every year. More info [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/). 
-	<li> Excellence Bursaries: covers the tuition fees fully for UK students, and partially (£10,000) for international students. Note that this scheme does NOT include a monthly stipend, so you need to finance your life expenses using other means. 
-	<li> Chinese Scholarship Council nomination: the School of Computing Science can nominate up to 4 candidates every year for the CSC scholarship. It is not guaranteed that the CSC will award our nominees, but historically this has always been the case. Our college then matches this funding to create a fully funded studentship (tuitions + stipend). 
-	</ul>
-<li> Industry co-funded Studentships: if you are able to secure half the costs of a PhD studentship from a potential industry partner (currently set at £35,000), I can support you in getting match funding from the University of Glasgow to create a fully funded scholarship. 
-<li> Industry studentships: some companies offer scholarships. Examples include: Google, Adobe, Facebook, and Microsoft. 
-<li> Carnegie PhD Scholarships: highly competitive - more info [here](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships/). 
-</ul> 
+
+* Scholarships through the University of Glasgow: deadline for the opportunities below is 31 January every year. More info about the application process can be found [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/): 
+..* EPSRC Studentship: covers tuition fees at the UK rate and offers a monthly stipend. Non-UK students are eligible but note that tuition fees are paid at the UK rate, and not the international one, so you would need to fund the difference using other means. Deadline is 31 January every year. More info [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/). 
+..* College of Science and Engineering Studentship: covers full tuition fees at the international rate and offers a monthly stipend. Deadline is 31 January every year. More info [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/). 
+..* Excellence Bursaries: covers the tuition fees fully for UK students, and partially (£10,000) for international students. Note that this scheme does NOT include a monthly stipend, so you need to finance your life expenses using other means. 
+..* Chinese Scholarship Council nomination: the School of Computing Science can nominate up to 4 candidates every year for the CSC scholarship. It is not guaranteed that the CSC will award our nominees, but historically this has always been the case. Our college then matches this funding to create a fully funded studentship (tuitions + stipend). 
+
+* Industry co-funded Studentships: if you are able to secure half the costs of a PhD studentship from a potential industry partner (currently set at £35,000), I can support you in getting match funding from the University of Glasgow to create a fully funded scholarship. 
+* Industry studentships: some companies offer scholarships. Examples include: Google, Adobe, Facebook, and Microsoft. 
+* Carnegie PhD Scholarships: highly competitive - more info [here](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships/). 
+
 
 ### Postdoc Opportunities
 
