@@ -25,9 +25,10 @@ Apart from the open positions, there are scholarships every year offered by the 
   * Excellence Bursaries: covers the tuition fees fully for UK students, and partially (£10,000) for international students. Note that this scheme does NOT include a monthly stipend, so you need to finance your life expenses using other means. 
   * Chinese Scholarship Council nomination: the School of Computing Science can nominate up to 4 candidates every year for the CSC scholarship. It is not guaranteed that the CSC will award our nominees, but historically this has always been the case. Our college then matches this funding to create a fully funded studentship (tuitions + stipend). 
 
-* Industry co-funded Studentships: if you are able to secure half the costs of a PhD studentship from a potential industry partner (currently set at £35,000), I can support you in getting match funding from the University of Glasgow to create a fully funded scholarship. 
+* Industry co-funded Studentships: if you are able to secure half the costs of a PhD studentship from a potential industry partner (currently set at £35,000), I can support you in getting match funding from the University of Glasgow to create a fully funded studentship (tuition fees at the UK rate + monthly stipend). 
 * Industry studentships: some companies offer scholarships. Examples include: Google, Adobe, Facebook, and Microsoft. 
 * Carnegie PhD Scholarships: highly competitive - more info [here](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships/). 
+* SOCIAL CDT: The UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents (or SOCIAL CDT) funds 15 PhD students every year. Dr Mohamed Khamis is part of the supervision team. You would need to select one of projects listed on the SOCIAL CDT website, and apply before the deadline. More details about the eligibility criteria and deadlines can be found on the [SOCIAL CDT website] (https://socialcdt.org/).
 
 
 ### Postdoc Opportunities
