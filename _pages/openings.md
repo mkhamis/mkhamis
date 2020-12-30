@@ -22,7 +22,7 @@ Apart from the open positions, there are scholarships every year offered by the 
 * Scholarships through the University of Glasgow: deadline for the opportunities below is 31 January every year. More info about the application process can be found [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/): 
 ..* EPSRC Studentship: covers tuition fees at the UK rate and offers a monthly stipend. Non-UK students are eligible but note that tuition fees are paid at the UK rate, and not the international one, so you would need to fund the difference using other means. Deadline is 31 January every year. More info [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/). 
 ..* College of Science and Engineering Studentship: covers full tuition fees at the international rate and offers a monthly stipend. Deadline is 31 January every year. More info [here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/). 
-..* Excellence Bursaries: covers the tuition fees fully for UK students, and partially (£10,000) for international students. Note that this scheme does NOT include a monthly stipend, so you need to finance your life expenses using other means. 
+  * Excellence Bursaries: covers the tuition fees fully for UK students, and partially (£10,000) for international students. Note that this scheme does NOT include a monthly stipend, so you need to finance your life expenses using other means. 
 ..* Chinese Scholarship Council nomination: the School of Computing Science can nominate up to 4 candidates every year for the CSC scholarship. It is not guaranteed that the CSC will award our nominees, but historically this has always been the case. Our college then matches this funding to create a fully funded studentship (tuitions + stipend). 
 
 * Industry co-funded Studentships: if you are able to secure half the costs of a PhD studentship from a potential industry partner (currently set at £35,000), I can support you in getting match funding from the University of Glasgow to create a fully funded scholarship. 
@@ -33,27 +33,23 @@ Apart from the open positions, there are scholarships every year offered by the 
 ### Postdoc Opportunities
 
 There are postdoc fellowships available every year. I am happy to support you in your application for a fellowship to fund your postdoc in our group. Take a look at the following opportunities (The deadlines were last checked in January 2021, they may have changed since then): 
-<ul>
-<li> [Leverhulme Trust Early Career Fellowship](https://www.leverhulme.ac.uk/early-career-fellowships): Deadline is in February every year.  
-<li> The [Marie Curie fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en): Deadline is in September every year. 
-<li> The [Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/): Deadline is in March every year. 
-<li> The [Daphne Jackson Trust](https://daphnejackson.org/about-fellowships/): Open call.
-<li> The [EPSRC Fellowship](https://epsrc.ukri.org/skills/fellows/): Open call.
-<li> The [Dorothy Hodgkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/): Deadline is in November every year. 
-<li> The [Ernest Rutherford Fellowship](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/): Deadline is in September every year. 
-<li> The [Royal Academy of Engineering Research Fellowship](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/raeng-research-fellowship): Deadline is in September every year. 
-<li> The [Royal Society Research Fellowship](https://royalsociety.org/grants-schemes-awards/grants/university-research/): Deadline is in August every year. 
-<li> <b>Note that in addition to the fellowship you can also apply for match-funding from the University of Glasgow's LKAS scheme to top up your fellowship by £100,000</b>. 
-</ul>
+
+* [Leverhulme Trust Early Career Fellowship](https://www.leverhulme.ac.uk/early-career-fellowships): Deadline is in February every year.  
+* The [Marie Curie fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en): Deadline is in September every year. 
+* The [Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/): Deadline is in March every year. 
+* The [Daphne Jackson Trust](https://daphnejackson.org/about-fellowships/): Open call.
+* The [EPSRC Fellowship](https://epsrc.ukri.org/skills/fellows/): Open call.
+* The [Dorothy Hodgkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/): Deadline is in November every year. 
+* The [Ernest Rutherford Fellowship](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/): Deadline is in September every year. 
+* The [Royal Academy of Engineering Research Fellowship](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/raeng-research-fellowship): Deadline is in September every year. 
+* The [Royal Society Research Fellowship](https://royalsociety.org/grants-schemes-awards/grants/university-research/): Deadline is in August every year. 
+* <b>Note that in addition to the fellowship you can also apply for match-funding from the University of Glasgow's LKAS scheme to top up your fellowship by £100,000</b>. 
 
 
-### Master projects for University of Glasgow students
-If you are a Master student at University of Glasgow looking for a Master project, contact me (or any group member) via email or stop by my office. We often have topics in HCI, Usable Security, Thermal Imaging, Eye Tracking, and Virtual Reality. 
+
+### Master and Level 4 final year projects for University of Glasgow students
+If you are a student at University of Glasgow looking for a Master or a Level 4 final year project, contact me (or any group member) via email or stop by my office. We often have topics in HCI, Usable Security, Thermal Imaging, Eye Tracking, and Virtual Reality. 
 
 ### Bsc / Master students from elsewhere
 If you are interested in pursuing a Master degree at University of Glasgow, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
 
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
