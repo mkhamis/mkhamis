@@ -1,0 +1,59 @@
+- name: Florian Mathis
+  photo: mathis.jpg
+  info: PhD student, started Oct 2019
+  email: florian.mathis@glasgow.ac.uk
+  personal_website: http://www.fmathis.com/ 
+  number_educ: 2
+  education1: MSc from Ludwig Maximilian University of Munich (LMU)
+  education2: BSc from Ludwig Maximilian University of Munich (LMU)
+
+- name: Yasmeen Abdrabou
+  photo: abdrabou.jpg
+  info: PhD student, started Oct 2019
+  email: yasmeen.essam@unibw.de
+  number_educ: 1
+  education1: M.Sc. from German University in Cairo (GUC)
+
+- name: Norah Alotaibi
+  photo: bio-photo.jpg
+  info: PhD Student, started Jan 2020
+  email: n.alotaibi.3@research.gla.ac.uk
+  number_educ: 1
+  education1: M.Sc. from University of Glasgow
+
+- name: Habiba Farzand
+  photo: bio-photo.jpg
+  info: PhD Student, started Jan 2021
+  email: 2538185F@student.gla.ac.uk
+  number_educ: 2
+  education1: M.Sc. from University of York
+  education2: B.Sc.
+
+- name: Robin Bretin 
+  photo: bio-photo.jpg
+  info: PhD Student in the SOCIAL CDT programme, started Oct 2020
+  email: 2605336B@student.gla.ac.uk
+  number_educ: 2
+  education1: TBC
+  education2: TBC
+  
+
+- name: Joseph O'Hagan
+  photo: bio-photo.jpg
+  info: PhD student (secondary supervisor), started Oct 2018.
+  email: j.ohagan.1@research.gla.ac.uk
+  number_educ: 1
+  education1: Leidse Instrumentmakers School
+  education2:
+  education3:
+  education4:
+
+- name: "This could be you !"
+  photo: you-bio-photo.jpg
+  info: See <a href="/work-with-us">Work with us</a> for more info.
+  email: mohamed.khamis@glasgow
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
