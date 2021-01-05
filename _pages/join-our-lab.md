@@ -1,9 +1,9 @@
 ---
-title: "SIRIUS Lab - Work with us"
+title: "SIRIUS Lab - join-our-lab"
 layout: textlay
-excerpt: "Work with us"
+excerpt: "Join our Lab"
 sitemap: false
-permalink: /work-with-us
+permalink: /join-our-lab
 ---
 
 # Open positions
