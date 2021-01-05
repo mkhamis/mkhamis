@@ -63,7 +63,7 @@ Our team adopts a human-centered approach to design, implement and evaluate <spa
 We are located at University of Glasgow, and are part of the GIST research section, which is one of the world leading HCI groups. 
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/work-with-us) **
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join-our-lab) **
 
 
 We are grateful for funding from University of Glasgow, [EPSRC](https://epsrc.ukri.org/) ([Royal Society of Edinbugh](https://www.rse.org.uk/), the [National Cyber Security Centre (NCSC)]https://www.ncsc.gov.uk/)), and from [Facebook Reality Labs](https://research.fb.com/).
