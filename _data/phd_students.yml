@@ -1,11 +1,14 @@
 - name: Florian Mathis
   photo: mathis.jpg
   info: PhD student, started Oct 2019
+  supervisors: Dr. Mohamed Khamis, Dr. Kami Vaniea
+  description: The objective of Florian's PhD is to research the suitability of Virtual Reality (VR) as a test bed for usability and security evaluations. 
+  keywords: HCI, Virtual Reality, Authentication, Usability
   email: florian.mathis@glasgow.ac.uk
   personal_website: http://www.fmathis.com/ 
   number_educ: 2
-  education1: MSc from Ludwig Maximilian University of Munich (LMU)
-  education2: BSc from Ludwig Maximilian University of Munich (LMU)
+  education1: M.Sc. from LMU Munich, Germany 
+  education2: B.Sc. from LMU Munich, Germany
 
 - name: Yasmeen Abdrabou
   photo: abdrabou.jpg
