@@ -33,7 +33,7 @@ Our team adopts a human-centered approach to design, implement and evaluate <spa
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/shoulder-surfing.jpg" alt="Shoulder Surfing" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RepliCueAuth.jpg" alt="RepliCuAuth: Usability and Security Evaluations in VR" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RepliCueAuthCHI.jpg" alt="RepliCuAuth: Usability and Security Evaluations in VR" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VRAuthentication.jpg" alt="Authentication in Virtual Reality" />
