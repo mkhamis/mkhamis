@@ -13,7 +13,10 @@
 - name: Yasmeen Abdrabou
   photo: abdrabou.jpg
   info: PhD student, started Oct 2019
+  description: My research combines HCI and usable security. In particular, I focus on the use of eye gaze to enhance security mechanisms, including and not limited to gaze behavior in security-related situations and personal identification. 
+  keywords: HCI, Eye Tracking, Usable Security
   email: yasmeen.essam@unibw.de
+  personal_website: https://www.yasmeenabdrabou.com/
   number_educ: 1
   education1: M.Sc. from German University in Cairo (GUC)
 
@@ -21,6 +24,7 @@
   photo: bio-photo.jpg
   info: PhD Student, started Jan 2020
   email: n.alotaibi.3@research.gla.ac.uk
+  keywords: Thermal Imaging, Machine Learning, Security
   number_educ: 1
   education1: M.Sc. from University of Glasgow
 
@@ -28,6 +32,7 @@
   photo: bio-photo.jpg
   info: PhD Student, started Jan 2021
   email: 2538185F@student.gla.ac.uk
+  keywords: Shoulder Surfing, Usable Security, HCI
   number_educ: 2
   education1: M.Sc. from University of York
   education2: B.Sc.

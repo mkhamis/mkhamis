@@ -1,11 +1,10 @@
 - name: Dr Karola Marky
   photo: bio-photo.jpg
-  info: Post Doc, started Apr 2020
-  email: karola.marky@glasgow.ac.uk
-  personal_website:  
-  number_educ: 2
-  education1: MSc from Ludwig Maximilian University of Munich (LMU)
-  education2: BSc from Ludwig Maximilian University of Munich (LMU)
+  info: Post Doc, starts Apr 2021
+  email: karola.marky@glasgow.ac.uk  
+  keywords: HCI, Usable Security, E-Voting
+  number_educ: 1
+  education1: PhD from the Technical University of Darmstadt
 
 
 - name: Tania Wallis

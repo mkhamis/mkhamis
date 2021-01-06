@@ -58,7 +58,7 @@
 
 - name: "This could be you !"
   photo: you-bio-photo.jpg
-  info: See <a href="/work-with-us">Work with uss</a> for more info.
+  info: See <a href="/join-our-lab">Join Our Lab</a> for more info.
   email: mohamed.khamis@glasgow
   number_educ: 0
   education1:
