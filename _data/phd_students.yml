@@ -1,16 +1,16 @@
-- name: Florian Mathis
+- name: Florian Mathis, M.Sc.
   photo: mathis.jpg
   info: PhD student, started Oct 2019
   supervisors: Dr. Mohamed Khamis, Dr. Kami Vaniea
   description: The objective of Florian's PhD is to research the suitability of Virtual Reality (VR) as a test bed for usability and security evaluations. 
-  keywords: HCI, Virtual Reality, Authentication, Usability
+  keywords: HCI, Virtual Reality, Usable Security
   email: florian.mathis@glasgow.ac.uk
   personal_website: http://www.fmathis.com/ 
   number_educ: 2
   education1: M.Sc. from LMU Munich, Germany 
   education2: B.Sc. from LMU Munich, Germany
 
-- name: Yasmeen Abdrabou
+- name: Yasmeen Abdrabou, M.Sc.
   photo: abdrabou.jpg
   info: PhD student, started Oct 2019
   description: My research combines HCI and usable security. In particular, I focus on the use of eye gaze to enhance security mechanisms, including and not limited to gaze behavior in security-related situations and personal identification. 
@@ -20,7 +20,7 @@
   number_educ: 1
   education1: M.Sc. from German University in Cairo (GUC)
 
-- name: Norah Alotaibi
+- name: Norah Alotaibi, M.Sc.
   photo: bio-photo.jpg
   info: PhD Student, started Jan 2020
   email: n.alotaibi.3@research.gla.ac.uk
@@ -28,7 +28,7 @@
   number_educ: 1
   education1: M.Sc. from University of Glasgow
 
-- name: Habiba Farzand
+- name: Habiba Farzand, M.Sc.
   photo: bio-photo.jpg
   info: PhD Student, started Jan 2021
   email: 2538185F@student.gla.ac.uk
