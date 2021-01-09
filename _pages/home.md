@@ -65,8 +65,8 @@ We are grateful for funding from University of Glasgow, [EPSRC](https://epsrc.uk
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UoG-colour.png" style="width: 180px; margin-right: 20px" alt="University of Glasgow">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rse.png" style="width: 90px; margin-right: 20px" alt="Royal Society of Edinburgh">
- {% comment %} <img alt="National Cyber Security Centre" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ncsc.jpg" style="width: 180px; margin-right: 20px"">{% endcomment %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fb.png" style="width: 120px; margin-right: 20px" alt="Facebook Reality Labs">
+ <img alt="National Cyber Security Centre" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ncsc.jpg" style="width: 180px; margin-right: 20px">
 </figure>
 
 <h2>Collaborations (since 2017)</h2>
