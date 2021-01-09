@@ -74,10 +74,10 @@ We are grateful for funding from University of Glasgow, [EPSRC](https://epsrc.uk
 	{{ academic_collaborator.name }}
 {% endfor %}
 
-<% comment %>
+<!--
 <h2>Non-academic Collaborations</h2>
 {% for nonacademic_collaborator in site.data.nonacademic_collaborations %}
 	{{ nonacademic_collaborator.name }}
 {% endfor %}
 
-<% endcomment %>
+-->
