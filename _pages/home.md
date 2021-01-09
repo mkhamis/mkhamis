@@ -54,15 +54,19 @@ We are located at University of Glasgow, and are part of the GIST research secti
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join-our-lab) **
 
 
-We are grateful for funding from University of Glasgow, [EPSRC](https://epsrc.ukri.org/) ([Royal Society of Edinbugh](https://www.rse.org.uk/), the [National Cyber Security Centre (NCSC)]https://www.ncsc.gov.uk/)), and from [Facebook Reality Labs](https://research.fb.com/).
-
 <h2>Funding</h2>
 
+We are grateful for funding from University of Glasgow, [EPSRC](https://epsrc.ukri.org/) ([Royal Society of Edinbugh](https://www.rse.org.uk/), the [National Cyber Security Centre (NCSC)]https://www.ncsc.gov.uk/)), and from [Facebook Reality Labs](https://research.fb.com/).
+
+![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+
+
+
 <figure class="fourth">
-  <img alt="University of Glasgow" src="{{ site.url }}{{ site.baseurl }}/images/logopic/UoG-colour.png" style="width: 180px; margin-right: 20px"">
-  <img alt="Royal Society of Edinburgh" src="{{ site.url }}{{ site.baseurl }}/images/logopic/rse.png" style="width: 90px; margin-right: 20px"">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UoG-colour.png" style="width: 180px; margin-right: 20px" alt="University of Glasgow">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rse.png" style="width: 90px; margin-right: 20px" alt="Royal Society of Edinburgh">
  {% comment %} <img alt="National Cyber Security Centre" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ncsc.jpg" style="width: 180px; margin-right: 20px"">{% endcomment %}
-  <img alt="Facebook Reality Labs" src="{{ site.url }}{{ site.baseurl }}/images/logopic/fb.png" style="width: 120px; margin-right: 20px"">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fb.png" style="width: 120px; margin-right: 20px" alt="Facebook Reality Labs">
 </figure>
 
 <h2>Collaborations (since 2017)</h2>

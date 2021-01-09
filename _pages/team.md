@@ -203,7 +203,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+## Master and Bachelor/Honors Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -285,7 +285,7 @@ permalink: /team/
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<h4>Level 4 Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
