@@ -56,10 +56,7 @@ We are located at University of Glasgow, and are part of the GIST research secti
 
 <h2>Funding</h2>
 
-We are grateful for funding from University of Glasgow, [EPSRC](https://epsrc.ukri.org/) ([Royal Society of Edinbugh](https://www.rse.org.uk/), the [National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/), and from [Facebook Reality Labs](https://research.fb.com/).
-
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
-
+We are grateful for funding from University of Glasgow, [EPSRC](https://epsrc.ukri.org/), [Royal Society of Edinbugh](https://www.rse.org.uk/), the [National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/), and from [Facebook Reality Labs](https://research.fb.com/).
 
 
 <figure class="fourth">

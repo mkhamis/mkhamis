@@ -8,7 +8,7 @@ permalink: /team/
 
 # Team Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join-our-lab) **!**
+ **We are  looking for new PhD students, Postdocs, and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join-our-lab) **!**
 
 
 ## Head
@@ -265,6 +265,35 @@ permalink: /team/
 {% endif %}
 
 {% endcomment %}
+
+## Academic Collaborations
+
+{% assign number_printed = 0 %}
+{% for member in site.data.collaborations %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  {{ member.name }}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 
 
 ## Former interns, undergraduate and MSc students
