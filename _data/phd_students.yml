@@ -6,9 +6,8 @@
   keywords: HCI, Virtual Reality, Usable Security
   email: florian.mathis@glasgow.ac.uk
   personal_website: http://www.fmathis.com/ 
-  number_educ: 2
-  education1: M.Sc. from LMU Munich, Germany 
-  education2: B.Sc. from LMU Munich, Germany
+  number_educ: 0
+  
 
 - name: Yasmeen Abdrabou, M.Sc.
   photo: abdrabou.jpg
@@ -17,7 +16,7 @@
   keywords: HCI, Eye Tracking, Usable Security
   email: yasmeen.essam@unibw.de
   personal_website: https://www.yasmeenabdrabou.com/
-  number_educ: 1
+  number_educ: 0
   education1: M.Sc. from German University in Cairo (GUC)
 
 - name: Norah Alotaibi, M.Sc.
@@ -25,7 +24,7 @@
   info: PhD Student, started Jan 2020
   email: n.alotaibi.3@research.gla.ac.uk
   keywords: Thermal Imaging, Machine Learning, Security
-  number_educ: 1
+  number_educ: 0
   education1: M.Sc. from University of Glasgow
 
 - name: Habiba Farzand, M.Sc.
@@ -33,28 +32,27 @@
   info: PhD Student, started Jan 2021
   email: 2538185F@student.gla.ac.uk
   keywords: Shoulder Surfing, Usable Security, HCI
-  number_educ: 2
+  description: My research is inspired by the convergence of Security & Privacy and Humans. I specifically focus on understanding and mitigating shoulder surfing – a privacy invasion found all around us.
+  number_educ: 0
   education1: M.Sc. from University of York
   education2: B.Sc.
 
 - name: Robin Bretin 
   photo: bio-photo.jpg
   info: PhD Student in the SOCIAL CDT programme, started Oct 2020
+  keywords: Human-Drone Interaction, Social Drones, Human-Robot Interaction
   email: 2605336B@student.gla.ac.uk
-  number_educ: 2
-  education1: TBC
-  education2: TBC
+  number_educ: 0
+
   
 
 - name: Joseph O'Hagan
   photo: bio-photo.jpg
+  keywords: Virtual Reality, Augmented Reality, Mixed Reality, 
   info: PhD student (secondary supervisor), started Oct 2018.
   email: j.ohagan.1@research.gla.ac.uk
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+  number_educ: 0
+  
 
 - name: "This could be you !"
   photo: you-bio-photo.jpg
