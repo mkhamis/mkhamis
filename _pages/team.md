@@ -269,7 +269,7 @@ permalink: /team/
 ## Academic Collaborations
 
 {% assign number_printed = 0 %}
-{% for member in site.data.collaborations %}
+{% for member in site.data.academic_collaborations %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
