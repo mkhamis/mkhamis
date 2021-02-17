@@ -3,14 +3,17 @@
   info: Post Doc, starts Apr 2021
   email: karola.marky@glasgow.ac.uk  
   keywords: HCI, Usable Security, E-Voting
+  description:  
   number_educ: 1
   education1: PhD from the Technical University of Darmstadt
 
 
 - name: Tania Wallis
-  photo: bio-photo.jpg
+  photo: wallis.jpeg
   info: Research Assistant, started Oct 2020
   email: Tania.Wallis@glasgow.ac.uk
+  keywords: Cyber-Physical Systems, Cybersecurity, Critical Infrastructures
+  description: Tania is researching the changing patterns of interaction with cyber-physical systems, such as increasing use of remote access to operational technology environments; and is investigating effective collaborations towards improving cybersecurity capability across critical infrastructure. 
   personal_website: 
   number_educ: 1
   education1: 
