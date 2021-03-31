@@ -6,6 +6,7 @@
   description:  
   number_educ: 1
   education1: PhD from the Technical University of Darmstadt
+  personal_website: https://www.gla.ac.uk/schools/computing/staff/karolamarky/
 
 
 - name: Tania Wallis
@@ -14,7 +15,7 @@
   email: Tania.Wallis@glasgow.ac.uk
   keywords: Cyber-Physical Systems, Cybersecurity, Critical Infrastructures
   description: Tania is researching the changing patterns of interaction with cyber-physical systems, such as increasing use of remote access to operational technology environments; and is investigating effective collaborations towards improving cybersecurity capability across critical infrastructure. 
-  personal_website: 
+  personal_website: https://www.gla.ac.uk/schools/computing/staff/taniawallis/
   number_educ: 1
   education1: 
   
@@ -22,6 +23,6 @@
   photo: bio-photo.jpg
   info: Research Assistant
   email: Kelsey.Collington@glasgow.ac.uk
-  personal_website: 
+  personal_website: https://www.gla.ac.uk/schools/computing/staff/kelseycollington/
   number_educ: 0
   education1: 
