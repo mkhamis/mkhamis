@@ -51,6 +51,9 @@ There are postdoc fellowships available every year. I am happy to support you in
 ### Master and Level 4 final year projects for University of Glasgow students
 If you are a student at University of Glasgow looking for a Master or a Level 4 final year project, contact me (or any group member) via email or stop by my office. We often have topics in HCI, Usable Security, Thermal Imaging, Eye Tracking, and Virtual Reality. 
 
+{% comment %}
+
 ### Bsc / Master students from elsewhere
 If you are interested in pursuing a Master degree at University of Glasgow, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
 
+{% endcomment %}
