@@ -29,7 +29,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+plugins:
+ -  jekyll/scholar
 
 # Markdown Processing
 kramdown:
