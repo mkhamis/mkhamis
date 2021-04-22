@@ -56,11 +56,13 @@ We are located at University of Glasgow, and are part of the GIST research secti
 
 <h2>Funding</h2>
 
-Our work is funded by grants from the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/), the [PETRAS National Centre of Excellence for IoT Systems Cybersecurity](https://petras-iot.org/),and [Facebook Reality Labs](https://research.fb.com/). 
+Our work is funded by grants from the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), and the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/). 
 We contribute to the [SOCIAL CDT](https://socialcdt.org/), a Centre for Doctoral Training on socially intelligent artifical agents.
 
 {% comment %}
 
+Our work is funded by grants from the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/), the [PETRAS National Centre of Excellence for IoT Systems Cybersecurity](https://petras-iot.org/),and [Facebook Reality Labs](https://research.fb.com/). 
+We contribute to the [SOCIAL CDT](https://socialcdt.org/), a Centre for Doctoral Training on socially intelligent artifical agents.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UoG-colour.png" style="width: 180px; margin-right: 20px" alt="University of Glasgow">
