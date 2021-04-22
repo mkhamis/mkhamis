@@ -3,7 +3,7 @@ title: "SIRIUS Lab - Publications"
 layout: gridlay
 excerpt: "SIRIUS Lab -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications2/
 ---
 
 ## Journal Articles
