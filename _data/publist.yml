@@ -46,3 +46,232 @@
   award:
   news2: 
   
+
+
+- title: "EyeVote in the Wild: Do Users bother Correcting System Errors on Public Displays?"
+  description: ""
+  authors: Mohamed Khamis, Ludwig Trotter, Markus Tessmann, Christina Dannhart, Andreas Bulling, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2016mum.pdf
+    display: In Proceedings of the 15th International Conference on Mobile and Ubiquitous Multimedia (MUM 2016)
+    DOI: http://dx.doi.org/10.1145/3012709.3012743
+    video:
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2016
+  type: conference
+  award:
+  news2:
+
+- title: "TextPursuits: Using Text for Pursuits-Based Interaction and Calibration on Public Displays."
+  description: ""
+  authors: Mohamed Khamis, Ozan Saltuk, Alina Hang, Katharina Stolz, Andreas Bulling, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2016ubicomp1.pdf
+    display: In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016)
+    DOI: http://dx.doi.org/10.1145/2971648.2971679
+    video: https://youtu.be/5Z9v8l4gGZo
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2016
+  type: conference
+  award:
+  news2:
+
+
+- title: "Challenges and Design Space of Gaze-enabled Public Displays."
+  description: ""
+  authors: Mohamed Khamis, Florian Alt, Andreas Bulling.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2016ubicomp2.pdf
+    display: In Adjunct Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016)
+    DOI: http://dx.doi.org/10.1145/2968219.2968342
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2016
+  type: workshop
+  award:
+  news2:
+
+- title: "The 6th International Workshop on Pervasive Eye Tracking and Mobile Eye-Based Interaction."
+  description: ""
+  authors: Diako Mardanbegi, Shahram Jalaliniya, Mohamed Khamis, Päivi Majaranta.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2016ubicomp3.pdf
+    display: In Adjunct Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016)
+    DOI: http://dx.doi.org/10.1145/2968219.2968333
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2016
+  type: Other
+  award:
+  news2:
+
+- title: "GazeTouchPass: Multimodal Authentication Using Gaze and Touch on Mobile Devices."
+  description: ""
+  authors: Mohamed Khamis, Florian Alt, Mariam Hassib, Emanuel von Zezschwitz, Regina Hasholzner, Andreas Bulling.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2016chi.pdf
+    display: Extended Abstracts of Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI 2016)
+    DOI: http://dx.doi.org/10.1145/2851581.2892314
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2016
+  type: Other
+  award:
+  news2:
+
+- title: "Investigating User Needs for Bio-sensing and Affective Wearables."
+  description: ""
+  authors: Mariam Hassib, Mohamed Khamis, Stefan Schneegass, Alireza Sahami Shirazi, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/hassib2016chi.pdf
+    display: Extended Abstracts of Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI 2016)
+    DOI: http://dx.doi.org/10.1145/2851581.2892480
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2016
+  type: Late-Breaking-Work
+  award:
+  news2:
+
+- title: "A Field Study on Spontaneous Gaze-based Interaction with a Public Display using Pursuits."
+  description: ""
+  authors: Mohamed Khamis, Florian Alt, Andreas Bulling.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2015petmei.pdf
+    display: Adjunct Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2015), pp. 865-874, 2015.
+    DOI: http://dx.doi.org/10.1145/2800835.2804335
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2015
+  type: workshop
+  award:
+  news2:
+
+- title: "Tackling Challenges of Interactive Public Displays using Gaze."
+  description: ""
+  authors: Mohamed Khamis, Andreas Bulling, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2015pdapps.pdf
+    display: Adjunct Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2015), pp. 763-766, 2015.
+    DOI: http://dx.doi.org/10.1145/2800835.2807951
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2015
+  type: workshop
+  award:
+  news2:
+
+
+- title: "AirDisplay: Experimenting with Air Flow as a Communication Medium."
+  description: ""
+  authors: Omar Mowafi, Mohamed Khamis, Wael Abouelsaadat.
+  link:
+    url: http://www.mkhamis.com/data/papers/airdisplay2015.pdf
+    display: Proceedings of the 15th IFIP TC13 International Conference on Human-Computer Interaction (INTERACT 2015), pp. 316-323, 2015.
+    DOI: http://dx.doi.org/10.1007/978-3-319-22701-6_23
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2015
+  type: conference
+  award:
+  news2: 
+
+- title: "Introduction and establishment of virtual training in the factory of the future."
+  description: ""
+  authors: Dominic Gorecky, Mohamed Khamis, Katharina Mura.
+  link:
+    url: http://www.mkhamis.com/data/papers/gorecky2015.pdf
+    display: International Journal of Computer Integrated Manufacturing, pp. 1-9, 2015.
+    DOI: http://dx.doi.org/10.1080/0951192X.2015.1067918
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2015
+  type: journal
+  award:
+  news2: 
+
+
+- title: "AreCAPTCHA: Outsourcing Arabic Text Digitization to Native Speakers."
+  description: ""
+  authors: Menna Bakry, Mohamed Khamis, Slim Abdennadher.
+  link:
+    url: http://www.mkhamis.com/data/papers/arecaptcha2014.pdf
+    display: Proceedings of the 11th IAPR International Workshop on Document Analysis Systems (DAS 2014), pp.304-308, 2014.
+    DOI: http://dx.doi.org/10.1109/DAS.2014.50
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2014
+  type: workshop
+  award:
+  news2: 
+  
+- title: "Collecting Links between Entities Ranked by Human Association Strengths."
+  description: ""
+  authors: Jörn Hees, Mohamed Khamis, Ralf Biedert, Slim Abdennadher, Andreas Dengel.
+  link:
+    url: http://www.mkhamis.com/data/papers/ktg2013.pdf
+    display: Proceedings of the 10th Extended Semantic Web Conference (ESWC 2013), 517-531.
+    DOI: 
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2013
+  type: conference
+  award:
+  news2:
+
+- title: "Collecting Arabic Dialect Variations using Games With A Purpose: A Case Study Targeting the Egyptian Dialect."
+  description: ""
+  authors: Sara Nasser, Nada Sharaf, Mohamed Khamis, Slim Abdennadher, Caroline Sabty.
+  link:
+    url: http://www.mkhamis.com/data/papers/gamnlp2013.pdf
+    display: Proceedings of the 2nd Workshop on Games and NLP (GAMNLP 2013)
+    DOI: http://dx.doi.org/10.1007/978-3-642-38288-8_35
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2013
+  type: workshop
+  award:
+  news2: 
+
+- title: "Prolog Server Faces - A Declarative Framework for Dynamic Web Pages."
+  description: ""
+  authors: Christian Schneiker, Mohamed Khamis, Dietmar Seipel.
+  link:
+    url: http://www.mkhamis.com/data/papers/psf2010.pdf
+    display: Proceedings of the 24th Workshop on Constraint Logic Programming (WLP 2010), 109-118
+    DOI: 
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2010
+  type: workshop
+  award:
+  news2: 
+  
