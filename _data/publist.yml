@@ -3,12 +3,14 @@
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
   authors: Florian Mathis, John Williamson, Kami Vaniea, Mohamed Khamis.
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
+    url: http://www.mkhamis.com/data/papers/mathis2020tochi.pdf
     display: Transactions on Computer-Human Interaction (TOCHI), 2021
     DOI: https://doi.org/10.1145/3428121
     video: https://youtu.be/OvKPhdx1ZZA
     bibtex: 
   highlight: 1
+  year: 2021
+  type: journal
   news2:
 
 - title: "Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication"
@@ -23,4 +25,24 @@
     talk: https://www.youtube.com/watch?v=QFQlCwtybqo 
     bibtex: 
   highlight: 0
+  year: 2017
+  type: conference
+  award: Honorable Mention Award (top 5% of submissions)
   news2: 
+
+- title: "GazeMeter: Exploring the Usage of Gaze Behaviour to enhance Password Assessments"
+  description: ""
+  authors: Yasmeen Abdrabou, Ahmed Shams, Mohamed Omar Mantawy, Anam Ahmad Khan, Mohamed Khamis, Florian Alt, Yomna Abdelrahman.
+  link:
+    url: http://www.mkhamis.com/data/papers/abdrabou2021etra.pdf
+    display: Proceedings of the ACM International Symposium on Eye Tracking Research & Applications (ETRA 2021)
+    DOI: https://doi.org/10.1145/3448017.3457384
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2021
+  type: conference
+  award:
+  news2: 
+  
