@@ -52,11 +52,42 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Journal articles
 
 {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+	{% if publi.type == "journal" %}
+	  {{ publi.title }} <br />
+	  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+	{% endif %}
 {% endfor %}
+
+## Book Chapters
+
+{% for publi in site.data.publist %}
+	{% if publi.type == "bookchapter" %}
+	  {{ publi.title }} <br />
+	  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+	{% endif %}
+{% endfor %}
+
+## Magazine articles
+
+{% for publi in site.data.publist %}
+	{% if publi.type == "magazine" %}
+	  {{ publi.title }} <br />
+	  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+	{% endif %}
+{% endfor %}
+
+## Conference papers
+
+{% for publi in site.data.publist %}
+	{% if publi.type == "conference" %}
+	  {{ publi.title }} <br />
+	  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+	{% endif %}
+{% endfor %}
+
+## Other publications (Peer-reviewed workshop papers, late-breaking-work papers, posters, etc.)
+
+
