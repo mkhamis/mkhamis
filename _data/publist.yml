@@ -14,12 +14,30 @@
   news2:
 
 
+
+- title: "GazeWheels: Recommendations for using Wheel Widgets for Feedback during Dwell-time Gaze Input"
+  description: ""
+  authors: Misahael Fernandez, Florian Mathis, Mohamed Khamis.
+  link:
+    url: 
+    display: To appear in the Journal of Information Technology, 11 pages.
+    DOI: 
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2021
+  type: journal
+  award: 
+  news2: 
+
+
 - title: "GazeMeter: Exploring the Usage of Gaze Behaviour to enhance Password Assessments"
   description: ""
   authors: Yasmeen Abdrabou, Ahmed Shams, Mohamed Omar Mantawy, Anam Ahmad Khan, Mohamed Khamis, Florian Alt, Yomna Abdelrahman.
   link:
     url: http://www.mkhamis.com/data/papers/abdrabou2021etra.pdf
-    display: Proceedings of the ACM International Symposium on Eye Tracking Research & Applications (ETRA 2021)
+    display: In Proceedings of the ACM International Symposium on Eye Tracking Research & Applications (ETRA 2021).
     DOI: https://doi.org/10.1145/3448017.3457384
     video: 
     talk: 
@@ -27,9 +45,572 @@
   highlight: 0
   year: 2021
   type: conference
+  award: 
+  news2: 
+
+
+- title: "Toward a roadmap for human-drone interaction"
+  description: ""
+  authors: Jessica Cauchard, Mohamed Khamis, Jérémie Garcia, Matjaž Kljun, Anke M. Brock.
+  link:
+    url: http://www.mkhamis.com/data/papers/RoadmapHDI.pdf
+    display: In ACM Interactions 28, 2 (March 2021), 77-81.
+    DOI: https://doi.org/10.1145/3447889
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2021
+  type: magazine
+  award: 
+  news2: 
+
+
+
+- title: "RepliCueAuth: Validating the Use of a lab-based Virtual Reality Setup for Evaluating Authentication Systems"
+  description: ""
+  authors: Florian Mathis, Kami Vaniea, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/mathis2021chi.pdf
+    display: In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021) - 26.3% acceptance rate.
+    DOI: https://doi.org/10.1145/3411764.3445478
+    video: https://youtu.be/DZJHP5PXYhg
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2021
+  type: conference
+  award: 
+  news2: 
+
+- title: "Think Harder! Investigating the Effect of Password Strength on Cognitive Load during Password Creation"
+  description: ""
+  authors: Yasmeen Abdrabou, Yomna Abdelrahman, Mohamed Khamis, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/abdrabou2021chi.pdf
+    display: In Proceedings of the 2021 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI 2021).
+    DOI: https://doi.org/10.1145/3411763.3451636
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2021
+  type: workshop
+  award: 
+  news2: 
+
+- title: "Remote XR Studies: The Golden Future of HCI Research?"
+  description: ""
+  authors: Florian Mathis, Xuesong Zhang, Joseph O'Hagan, Daniel Medeiros, Pejman Saeghe, Mark McGill, Stephen Brewster, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/mathis2021xr.pdf
+    display: In CHI 2021 Workshop on XR Remote Research
+    DOI: http://www.mat.qmul.ac.uk/xr-chi-2021/
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2021
+  type: workshop
+  award: 
+  news2:  
+
+- title: "Privacy and Security in Augmentation Technologies"
+  description: ""
+  authors: Mohamed Khamis, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/KhamisAlt2020PriSecAugTech.pdf
+    display: In "Technology-Augmented Perception and Cognition" (chapter 8). Springer Nature Switzerland AG. 
+    DOI: http://doi.org/10.1007/978-3-030-30457-7_8
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: bookchapter
+  award: 
+  news2:  
+  
+- title: "Are my Apps Peeking? Comparing Nudging Mechanisms to Raise Awareness of Access to Mobile Front-facing Camera"
+  description: ""
+  authors: Mariam Hassib, Hatem Abdelmoteleb, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/hassib2020mum.pdf
+    display: In Proceedings of the 19th International Conference on Mobile and Ubiquitous Multimedia (MUM 2020).  
+    DOI: https://doi.org/10.1145/3428361.3428384
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+- title: "Predicting Mid-Air Gestural Interaction with Public Displays based on Audience Behaviour"
+  description: ""
+  authors: Vito Gentile, Mohamed Khamis, Fabrizio Milazzo, Salvatore Sorce, Alessio Malizia, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/gentile2020ijhcs.pdf
+    display: International Journal of Human-Computer Studies, Volume 144, 2020.
+    DOI: https://doi.org/10.1016/j.ijhcs.2020.102497
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: journal
+  award: 
+  news2:  
+
+
+- title: "The Role of Eye Gaze in Security and Privacy Applications: Survey and Future HCI Research Directions"
+  description: ""
+  authors: Christina Katsini, Yasmeen Abdrabou, George Raptis, Mohamed Khamis, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/katsini2020chi.pdf
+    display: In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020) - 24.31% acceptance rate.
+    DOI: https://doi.org/10.1145/3313831.3376840
+    video: 
+    talk: https://www.youtube.com/watch?v=Y4Cup8lquMI
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: Honorable Mention Award (top 5% of submissions)
+  news2:  
+
+- title: "Virtual Field Studies: Conducting Studies on Public Displays in Virtual Reality"
+  description: ""
+  authors: Ville Mäkelä, Sheikh Radiah Rahim Rivu, Saleh Alsherif, Mohamed Khamis, Chong Xiao, Lisa Marianne Borchert, Albrecht Schmidt, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/maekelae2020chi.pdf
+    display: In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020) - 24.31% acceptance rate.
+    DOI: http://dx.doi.org/10.1145/3313831.3376796
+    video: https://youtu.be/b8PecknzCBQ
+    talk: https://www.youtube.com/watch?v=2waibXE8wPU
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+
+- title: "GazeWheels: Comparing Dwell-time Feedback and Methods for Gaze Input"
+  description: ""
+  authors: Misahael Fernandez, Florian Mathis, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/fernandez2020nordichi.pdf
+    display: In Proceedings of the 11th Nordic Conference on Human-Computer Interaction (NordiCHI 2020). Association for Computing Machinery - 14.7% acceptance rate.
+    DOI: http://dx.doi.org/10.1145/3419249.3420122
+    video:
+    talk: https://youtu.be/8h1g-fDJmWY
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+- title: "GazeRoomLock: Using Gaze and Head-pose to Improve the Usability and Observation Resistance of 3D Passwords in Virtual Reality"
+  description: ""
+  authors: Ceenu George, Daniel Buschek, Andrea Ngao, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/george2020avr.pdf
+    display: In Proceedings of the 7th International Conference on Augmented Reality, Virtual Reality, and Computer Graphics (AVR 2020).
+    DOI: https://doi.org/10.1007/978-3-030-58465-8_5
+    video:
+    talk: https://www.youtube.com/watch?v=k--1SQvlc18&ab_channel=MohamedKhamis
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+- title: "GazeLockPatterns: Comparing Authentication Using Gaze and Touch for Entering Lock Patterns"
+  description: ""
+  authors: Yasmeen Abdrabou, Ken Pfeuffer, Mohamed Khamis, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/abdrabou2020avi.pdf
+    display: In Proceedings of the ACM International Symposium on Eye Tracking Research & Applications (ETRA 2020)
+    DOI: https://doi.org/10.1145/3379156.3391371
+    video:
+    talk: https://youtu.be/ujGk622MckY
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+- title: "Are Thermal Attacks Ubiquitous? When Non-Expert Attackers Use Off the shelf Thermal Cameras"
+  description: ""
+  authors: Yasmeen Abdrabou, Yomna Abdelrahman, Ahmed Ayman, Amr Elmougy, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/abdrabou2020avi.pdf
+    display: In Proceedings of the International Conference on Advanced Visual Interfaces (AVI 2020). 
+    DOI: https://doi.org/10.1145/3399715.3399819
+    video:
+    talk: https://www.youtube.com/watch?v=GHeR55fCooY&t=5s
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+- title: "Don't Use Fingerprint, it's Raining! How People Use and Perceive Context-Aware Selection of Mobile Authentication"
+  description: ""
+  authors: Sarah Prange, Lukas Mecke, Alice Nguyen, Mohamed Khamis, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/prange2020avi.pdf
+    display: In Proceedings of the International Conference on Advanced Visual Interfaces (AVI 2020). 
+    DOI: https://doi.org/10.1145/3399715.3399823
+    video:
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+
+- title: "Bystander Interruption of VR Users"
+  description: ""
+  authors: Joseph O'Hagan, Julie Williamson, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/ohagan2020perdis.pdf
+    display: In Proceedings of the 9th International Symposium on Pervasive Displays (PerDis 2020).
+    DOI: https://doi.org/10.1145/3393712.3395339
+    video:
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+- title: "Augmenting TV Viewing using Acoustically Transparent Auditory Headsets"
+  description: ""
+  authors: Mark McGill, Florian Mathis, Mohamed Khamis, Julie Williamson.
+  link:
+    url: http://www.mkhamis.com/data/papers/mcgill2020imx.pdf
+    display: In Proceedings of the ACM International Conference on Interactive Media Experiences (IMX 2020)
+    DOI: https://doi.org/10.1145/3391614.3399402
+    video: https://youtu.be/hMzH9suIdio
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: conference
+  award: 
+  news2:  
+
+- title: "Assessing Social Text Placement in Mixed Reality TV"
+  description: ""
+  authors: Florian Mathis, Xuesong Zhang, Mark McGill, Adalberto L. Simeone, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/mathis2020imx.pdf
+    display: In Proceedings of the ACM International Conference on Interactive Media Experiences (IMX 2020). 
+    DOI: https://doi.org/10.1145/3391614.3399402
+    video: https://youtu.be/aNCXm7MYLVk
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: Late-Breaking-Work
+  award: Best Late-Breaking-Work Award
+  news2:  
+
+
+- title: "RubikAuth: Fast and Secure Authentication in Virtual Reality"
+  description: ""
+  authors: Florian Mathis, John Williamson, Kami Vaniea, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/mathis2020chi1.pdf
+    display: In Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA 2020).
+    DOI: https://dx.doi.org/10.1145/3334480.3382827
+    video: https://youtu.be/fl05b9X0arE
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: Late-Breaking-Work
+  award:
+  news2:  
+
+- title: "Knowledge-driven Biometric Authentication in Virtual Reality"
+  description: ""
+  authors: Florian Mathis, Hassan Ismail Fawaz, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/mathis2020chi2.pdf
+    display: In Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA 2020).
+    DOI: https://dx.doi.org/10.1145/3334480.3382799
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2020
+  type: Late-Breaking-Work
+  award:
+  news2:  
+
+- title: "ElectroCutscenes: Realistic Haptic Feedback in Cutscenes of Virtual Reality Games Using Electric Muscle Stimulation"
+  description: ""
+  authors: Mohamed Khamis, Nora Schuster, Ceenu George, Max Pfeiffer.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2019vrst.pdf
+    display: In Proceedings of the 25th ACM Symposium on Virtual Reality Software and Technology (VRST 2019) - 21.4% acceptance rate.
+    DOI: https://doi.org/10.1145/3359996.3364250
+    video: https://www.youtube.com/watch?v=gW7XyVRhGwY
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
+  award:
+  news2:  
+
+
+- title: "DialPlates: Enabling Pursuits-based User Interfaces with Large Target Numbers"
+  description: ""
+  authors: Heiko Drewes, Mohamed Khamis, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/drewes2019mum.pdf
+    display: In Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia (MUM 2019).
+    DOI: https://doi.org/10.1145/3365610.3365626
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
+  award:
+  news2:  
+
+
+- title: "Securing Personal Items in Public Space: Stories of Attacks and Threats"
+  description: ""
+  authors: Sarah Prange, Lukas Mecke, Michael Stadler, Maximilian Balluff, Mohamed Khamis, Florian Alt
+  link:
+    url: http://www.mkhamis.com/data/papers/prange2019mum.pdf
+    display: In Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia (MUM 2019).
+    DOI: https://doi.org/10.1145/3365610.3365628
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
+  award:
+  news2:  
+
+
+- title: "Special Topic: HCI in The Arab World - Introduction"
+  description: ""
+  authors: Shaimaa Lazem, Ebtisam Alabdulqader, Mohamed Khamis.
+  link:
+    url: http://interactions.acm.org/archive/section/may-june-2019/special-topic-hci-in-the-arab-world
+    display: In ACM Interactions 26, 3 (April 2019), 41-43.
+    DOI: https://doi.org/10.1145/3320109
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: magazine
+  award:
+  news2:  
+
+- title: "What about my Privacy, Habibi? Understanding Privacy Concerns and Perceptions of Users from Different Socioeconomic Groups in the Arab World"
+  description: ""
+  authors: Mennatallah Saleh, Mohamed Khamis, Christian Sturm.
+  link:
+    url: http://www.mkhamis.com/data/papers/saleh2019interact.pdf
+    display: In Proceedings of the 17th IFIP TC13 International Conference on Human-Computer Interaction (INTERACT 2019).
+    DOI: https://doi.org/10.1007/978-3-030-29387-1_5
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
+  award:
+  news2:  
+
+- title: "Passquerade: Improving Error Correction of Text Passwords on Mobile Devices by using Graphic Filters for Password Masking"
+  description: ""
+  authors: Mohamed Khamis, Tobias Seitz, Leonhard Mertl, Alice Nguyen, Mario Schneller, Zhe Li.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2019chi.pdf
+    display: In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI 2019) - 23.8% acceptance rate.
+    DOI: https://doi.org/10.1145/3290605.3300916
+    video: https://www.youtube.com/watch?v=1kvUCtdJuao
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
+  award:
+  news2:  
+
+- title: "Can Privacy-Aware Lifelogs Alter Our Memories?"
+  description: ""
+  authors: Passant ElAgroudy, Mohamed Khamis, Florian Mathis, Diana Irmscher, Andreas Bulling, Albrecht Schmidt.
+  link:
+    url: http://www.mkhamis.com/data/papers/elagroudy2019chi.pdf
+    display: In Proceedings of the 2019 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI 2019).
+    DOI: https://doi.org/10.1145/3290607.3313052
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: Late-Breaking-Work
+  award:
+  news2:  
+
+
+- title: "Just Gaze and Wave: Exploring the Use of Gaze and Gestures for Shoulder-surfing Resilient Authentication"
+  description: ""
+  authors: Yasmeen Abdrabou, Mohamed Khamis, Rana Mohamed Eisa, Sherif Ismail, Amr Elmougy.
+  link:
+    url: http://www.mkhamis.com/data/papers/abdrabou2019etra1.pdf
+    display: In Proceedings of the ACM International Symposium on Eye Tracking Research & Applications (ETRA 2019).
+    DOI: https://doi.org/10.1145/3314111.3319837
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
+  award:
+  news2:  
+
+- title: "Calibration-free Text Entry using Smooth Pursuit Eye Movements"
+  description: ""
+  authors: Yasmeen Abdrabou, Mariam Mostafa, Mohamed Khamis, Amr Elmougy.
+  link:
+    url: http://www.mkhamis.com/data/papers/abdrabou2019etra2.pdf
+    display: In Proceedings of the ACM International Symposium on Eye Tracking Research & Applications (ETRA 2019).
+    DOI: https://doi.org/10.1109/VR.2019.8797862
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
   award:
   news2: 
 
+- title: "Investigating the Third Dimension for Authentication in Immersive Virtual Reality and in the Real World"
+  description: ""
+  authors: Ceenu George, Daniel Buschek, Mohamed Khamis, Heinrich Hussmann.
+  link:
+    url: http://www.mkhamis.com/data/papers/george2019ieeevr.pdf
+    display: In Proceedings of the 26th IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2019). 
+    DOI: https://doi.org/10.1109/VR.2019.8797862
+    video: 
+    talk: https://www.youtube.com/watch?v=sW7JPfDJfIU
+    bibtex: 
+  highlight: 0
+  year: 2021
+  type: conference
+  award:
+  news2: 
+  
+ 
+
+- title: "Touchscreens as the de facto interface to complex systems"
+  image: 
+  description: ""
+  authors: Ashley Colley, Niels Henze, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/colley2019Touchscreens.pdf
+    display: In "Managing Complexity and Creating Innovation through Design" (chapter 7). Routledge Taylor & Francis Group.
+    DOI: https://www.routledge.com/Managing-Complexity-and-Creating-Innovation-through-Design/Miettinen-Sarantou/p/book/9780367077686
+    video:
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: bookchapter
+  award: 
+  news2:
+
+- title: "iHDI: First International Workshop on Human-Drone Interaction"
+  image: 
+  description: ""
+  authors: Anke M. Brock, Jessica Cauchard, Markus Funk, Jérémie Garcia, Mohamed Khamis, and Matjaž Kljun.
+  link:
+    url: http://www.mkhamis.com/data/papers/brock2019chi.pdf
+    display: Proceedings of the 2019 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI 2019)
+    DOI: https://doi.org/10.1145/3290607.3299001
+    video:
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: workshop
+  award: 
+  news2:
+  
+
+- title: "Privacy, Security and Safety Concerns of using HMDs in Public and Semi-Public Spaces"
+  image: 
+  description: ""
+  authors: Florian Mathis, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/mathis2019shmd.pdf
+    display: CHI 2019 Workshop on Challenges Using Head-Mounted Displays in Shared and Social Spaces
+    DOI: https://www.medien.ifi.lmu.de/socialHMD/
+    video:
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: workshop
+  award: 
+  news2:
+ 
+
+- title: "Investigating the User Experience of Smartphone Authentication Schemes-The Role of the Mobile Context"
+  image: 
+  description: ""
+  authors: Matthias Baldauf, Sebastian Steiner, Mohamed Khamis, Sarah-Kristin Thiel.
+  link:
+    url: http://www.mkhamis.com/data/papers/baldauf2019hicss.pdf
+    display: Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS 2019)
+    DOI: https://hdl.handle.net/10125/59918
+    video:
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
+  award: 
+  news2:
+  
+- title: "Orochi: Investigating Requirements and Expectations for Multipurpose Daily Used Supernumerary Robotic Limbs"
+  image: 
+  description: ""
+  authors: Mohammed Al-Sada, Thomas Höglund, Mohamed Khamis, Jaryd Urbani and Tatsuo Nakajima.
+  link:
+    url: http://www.mkhamis.com/data/papers/alsada2019ah.pdf
+    display: Proceedings of the 10th International Conference on Augmented Human (AH 2019)
+    DOI: https://doi.org/10.1145/3311823.3311850
+    video: https://youtu.be/n2OAJ9WkLTk
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2019
+  type: conference
+  award: 
+  news2:
 
 - title: "CueAuth: Comparing Touch, Mid-Air Gestures, and Gaze for Cue-based Authentication on Situated Displays"
   image: 
