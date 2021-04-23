@@ -31,6 +31,23 @@
   news2: 
 
 
+- title: "CueAuth: Comparing Touch, Mid-Air Gestures, and Gaze for Cue-based Authentication on Situated Displays"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Ludwig Trotter, Ville Mäkelä, Emanuel von Zezschwitz, Jens Le, Andreas Bulling, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2018imwut.pdf
+    display: Proceedings of ACM on Interactive Mobile Wearable Ubiquitous Technologies (IMWUT) 2, 4, December 2018, 21 pages.
+    DOI: https://doi.org/10.1145/3287052
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: journal
+  award: 
+  news2:
+
 
 - title: "GazeRecall: Using Gaze Direction to Increase Recall of Details in 360° Videos"
   image: 
@@ -299,7 +316,7 @@
   authors: Mohamed Khamis, J. Henderson, Guiying Du.
   link:
     url: http://www.mkhamis.com/data/papers/khamis2017pervasive.pdf
-    display: IEEE Pervasive Computing 16(4): 86-89 (2017).
+    display: IEEE Pervasive Computing 16(4), 86-89 (2017).
     DOI: https://doi.org/10.1109/MPRV.2017.3971126
     video: 
     talk:
