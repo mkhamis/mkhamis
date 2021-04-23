@@ -174,7 +174,7 @@
     video: 
     talk: https://www.youtube.com/watch?v=Y4Cup8lquMI
     bibtex: 
-  highlight: 0
+  highlight: 1
   year: 2020
   type: conference
   award: Honorable Mention Award (top 5% of submissions)
@@ -1039,7 +1039,7 @@
     video: https://youtu.be/a2Q64XmZpc4
     talk: https://www.youtube.com/watch?v=QFQlCwtybqo 
     bibtex: 
-  highlight: 0
+  highlight: 1
   year: 2017
   type: conference
   award: Honorable Mention Award (top 5% of submissions)
