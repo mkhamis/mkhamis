@@ -88,6 +88,12 @@ permalink: /publications/
 	{% endif %}
 {% endfor %}
 
-## Other publications (Peer-reviewed workshop papers, late-breaking-work papers, posters, etc.)
+## Other publications (Peer-reviewed workshop papers and proposals, and juried late-breaking-work papers.)
 
+{% for publi in site.data.publist %}
+	{% if publi.type == "workshop" && publi.type == "Late-Breaking-Work" && publi.type == "conference" %}
+	  {{ publi.title }} <br />
+	  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+	{% endif %}
+{% endfor %}
 
