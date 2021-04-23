@@ -10,7 +10,7 @@
     bibtex: 
   highlight: 1
   year: 2021
-  type: journal
+  type: "journal"
   news2:
 
 
@@ -27,7 +27,7 @@
     bibtex: 
   highlight: 0
   year: 2021
-  type: journal
+  type: "journal"
   award: 
   news2: 
 
@@ -44,7 +44,7 @@
     bibtex: 
   highlight: 0
   year: 2021
-  type: conference
+  type: "conference"
   award: 
   news2: 
 
@@ -61,7 +61,7 @@
     bibtex: 
   highlight: 0
   year: 2021
-  type: magazine
+  type: "magazine"
   award: 
   news2: 
 
@@ -79,7 +79,7 @@
     bibtex: 
   highlight: 0
   year: 2021
-  type: conference
+  type: "conference"
   award: 
   news2: 
 
@@ -95,7 +95,7 @@
     bibtex: 
   highlight: 0
   year: 2021
-  type: workshop
+  type: "workshop"
   award: 
   news2: 
 
@@ -111,7 +111,7 @@
     bibtex: 
   highlight: 0
   year: 2021
-  type: workshop
+  type: "workshop"
   award: 
   news2:  
 
@@ -127,7 +127,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: bookchapter
+  type: "bookchapter"
   award: 
   news2:  
   
@@ -143,7 +143,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -159,7 +159,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: journal
+  type: "journal"
   award: 
   news2:  
 
@@ -176,7 +176,7 @@
     bibtex: 
   highlight: 1
   year: 2020
-  type: conference
+  type: "conference"
   award: Honorable Mention Award (top 5% of submissions)
   news2:  
 
@@ -192,7 +192,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -209,7 +209,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -225,7 +225,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -241,7 +241,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -257,7 +257,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -273,7 +273,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -290,7 +290,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -306,7 +306,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: conference
+  type: "conference"
   award: 
   news2:  
 
@@ -322,7 +322,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award: Best Late-Breaking-Work Award
   news2:  
 
@@ -339,7 +339,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award:
   news2:  
 
@@ -355,7 +355,7 @@
     bibtex: 
   highlight: 0
   year: 2020
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award:
   news2:  
 
@@ -371,7 +371,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award:
   news2:  
 
@@ -388,7 +388,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award:
   news2:  
 
@@ -405,7 +405,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award:
   news2:  
 
@@ -422,7 +422,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: magazine
+  type: "magazine"
   award:
   news2:  
 
@@ -438,7 +438,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award:
   news2:  
 
@@ -454,7 +454,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award:
   news2:  
 
@@ -470,7 +470,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award:
   news2:  
 
@@ -487,7 +487,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award:
   news2:  
 
@@ -503,7 +503,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award:
   news2: 
 
@@ -519,7 +519,7 @@
     bibtex: 
   highlight: 0
   year: 2021
-  type: conference
+  type: "conference"
   award:
   news2: 
   
@@ -538,7 +538,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: bookchapter
+  type: "bookchapter"
   award: 
   news2:
 
@@ -555,7 +555,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: workshop
+  type: "workshop"
   award: 
   news2:
   
@@ -573,7 +573,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: workshop
+  type: "workshop"
   award: 
   news2:
  
@@ -591,7 +591,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award: 
   news2:
   
@@ -608,7 +608,7 @@
     bibtex: 
   highlight: 0
   year: 2019
-  type: conference
+  type: "conference"
   award: 
   news2:
 
@@ -625,7 +625,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: journal
+  type: "journal"
   award: 
   news2:
 
@@ -643,7 +643,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: 
   news2:
 
@@ -660,7 +660,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: 
   news2:
 
@@ -677,7 +677,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: Honorable Mention Award (top 5% of submissions)
   news2: 
 
@@ -694,7 +694,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: journal
+  type: "journal"
   award: 
   news2: 
 
@@ -711,7 +711,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: workshop
+  type: "workshop"
   award: 
   news2: 
 
@@ -728,7 +728,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: workshop
+  type: "workshop"
   award: 
   news2: 
 
@@ -745,7 +745,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: 
   news2: 
 
@@ -762,7 +762,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: 
   news2: 
 
@@ -780,7 +780,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: Honorable Mention Award (top 5% of submissions)
   news2:
 
@@ -798,7 +798,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: Honorable Mention Award (top 5% of submissions)
   news2:
 
@@ -816,7 +816,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: 
   news2:
 
@@ -834,7 +834,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: conference
+  type: "conference"
   award: 
   news2:
 
@@ -852,7 +852,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award: 
   news2:
 
@@ -869,7 +869,7 @@
     bibtex: 
   highlight: 0
   year: 2018
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award: 
   news2:
 
@@ -886,7 +886,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: journal
+  type: "journal"
   award: 
   news2:
 
@@ -904,7 +904,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: magazine
+  type: "magazine"
   award: 
   news2:
 
@@ -922,7 +922,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: conference
+  type: "conference"
   award: Honorable Mention Award (top 5% of submissions)
   news2:
 
@@ -939,7 +939,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: conference
+  type: "conference"
   award: 
   news2:
 
@@ -973,7 +973,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: conference
+  type: "conference"
   award: 
   news2: 
 
@@ -990,7 +990,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: conference
+  type: "conference"
   award: 
   news2: 
   
@@ -1007,7 +1007,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: conference
+  type: "conference"
   award: 
   news2: 
 
@@ -1024,7 +1024,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: conference
+  type: "conference"
   award: 
   news2: 
 
@@ -1041,7 +1041,7 @@
     bibtex: 
   highlight: 1
   year: 2017
-  type: conference
+  type: "conference"
   award: Honorable Mention Award (top 5% of submissions)
   news2: 
   
@@ -1059,7 +1059,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: conference
+  type: "conference"
   award: 
   news2: 
 
@@ -1076,7 +1076,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: workshop
+  type: "workshop"
   award:
   news2:
 
@@ -1092,7 +1092,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: workshop
+  type: "workshop"
   award:
   news2:
 
@@ -1108,7 +1108,7 @@
     bibtex: 
   highlight: 0
   year: 2017
-  type: conference
+  type: "conference"
   award:
   news2:
 
@@ -1124,7 +1124,7 @@
     bibtex: 
   highlight: 0
   year: 2016
-  type: conference
+  type: "conference"
   award:
   news2:
 
@@ -1140,7 +1140,7 @@
     bibtex: 
   highlight: 0
   year: 2016
-  type: conference
+  type: "conference"
   award:
   news2:
 
@@ -1157,7 +1157,7 @@
     bibtex: 
   highlight: 0
   year: 2016
-  type: workshop
+  type: "workshop"
   award:
   news2:
 
@@ -1173,7 +1173,7 @@
     bibtex: 
   highlight: 0
   year: 2016
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award:
   news2:
 
@@ -1189,7 +1189,7 @@
     bibtex: 
   highlight: 0
   year: 2016
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award:
   news2:
 
@@ -1205,7 +1205,7 @@
     bibtex: 
   highlight: 0
   year: 2016
-  type: Late-Breaking-Work
+  type: "Late-Breaking-Work"
   award:
   news2:
 
@@ -1221,7 +1221,7 @@
     bibtex: 
   highlight: 0
   year: 2015
-  type: workshop
+  type: "workshop"
   award:
   news2:
 
@@ -1237,7 +1237,7 @@
     bibtex: 
   highlight: 0
   year: 2015
-  type: workshop
+  type: "workshop"
   award:
   news2:
 
@@ -1254,7 +1254,7 @@
     bibtex: 
   highlight: 0
   year: 2015
-  type: conference
+  type: "conference"
   award:
   news2: 
 
@@ -1270,7 +1270,7 @@
     bibtex: 
   highlight: 0
   year: 2015
-  type: journal
+  type: "journal"
   award:
   news2: 
 
@@ -1287,7 +1287,7 @@
     bibtex: 
   highlight: 0
   year: 2014
-  type: workshop
+  type: "workshop"
   award:
   news2: 
   
@@ -1303,7 +1303,7 @@
     bibtex: 
   highlight: 0
   year: 2013
-  type: conference
+  type: "conference"
   award:
   news2:
 
@@ -1319,7 +1319,7 @@
     bibtex: 
   highlight: 0
   year: 2013
-  type: workshop
+  type: "workshop"
   award:
   news2: 
 
@@ -1335,7 +1335,7 @@
     bibtex: 
   highlight: 0
   year: 2010
-  type: workshop
+  type: "workshop"
   award:
   news2: 
   
