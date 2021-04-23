@@ -54,9 +54,15 @@ permalink: /publications/
 
 ## Journal articles
 
-{% for publi in site.data.publist %}	
-	  {{ publi.title }} <br />
-	  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% for publi in site.data.publist %}
+
+{% if publi.type == "journal" %}
+
+{{ publi.title }} <br />
+<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+
 {% endfor %}
 
 ## Book Chapters
