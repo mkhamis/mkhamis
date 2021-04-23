@@ -13,22 +13,6 @@
   type: journal
   news2:
 
-- title: "Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication"
-  image: dummy.png
-  description: ""
-  authors: Yomna Abdelrahman*, Mohamed Khamis*, Stefan Schneegass, Florian Alt.
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems 
-    DOI: http://dx.doi.org/10.1145/3025453.3025461
-    video: https://youtu.be/a2Q64XmZpc4
-    talk: https://www.youtube.com/watch?v=QFQlCwtybqo 
-    bibtex: 
-  highlight: 0
-  year: 2017
-  type: conference
-  award: Honorable Mention Award (top 5% of submissions)
-  news2: 
 
 - title: "GazeMeter: Exploring the Usage of Gaze Behaviour to enhance Password Assessments"
   description: ""
@@ -45,8 +29,507 @@
   type: conference
   award:
   news2: 
+
+
+- title: "CueAuth: Comparing Touch, Mid-Air Gestures, and Gaze for Cue-based Authentication on Situated Displays"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Ludwig Trotter, Ville Mäkelä, Emanuel von Zezschwitz, Jens Le, Andreas Bulling, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2018imwut.pdf
+    display: Proceedings of ACM on Interactive Mobile Wearable Ubiquitous Technologies (IMWUT) 2, 4, December 2018, 21 pages.
+    DOI: https://doi.org/10.1145/3287052
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: journal
+  award: 
+  news2:
+
+
+- title: "GazeRecall: Using Gaze Direction to Increase Recall of Details in 360° Videos"
+  image: 
+  description: ""
+  authors: Sylvia Rothe, Felix Althammer, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/rothe2018mum.pdf
+    display: Proceedings of the 17th International Conference on Mobile and Ubiquitous Multimedia (MUM 2018)
+    DOI: https://doi.org/10.1145/3282894.3282903
+    video:
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: 
+  news2:
+
+- title: "Smooth Pursuit Target Speeds and Trajectories"
+  image: 
+  description: ""
+  authors: Heiko Drewes, Mohamed Khamis, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/drewes2018mum.pdf
+    display: Proceedings of the 17th International Conference on Mobile and Ubiquitous Multimedia (MUM 2018)
+    DOI: https://doi.org/10.1145/3282894.3282913
+    video:
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: 
+  news2:
+
+- title: "The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey and Lessons Learned"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Florian Alt, Andreas Bulling.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2018mobilehci.pdf
+    display: Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI 2018)
+    DOI: https://doi.org/10.1145/3229434.3229452
+    video: https://youtu.be/Gew6jsXTHSU
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: Honorable Mention Award (top 5% of submissions)
+  news2: 
+
+- title: "EyeSpot: Leveraging Gaze to Protect Private Text Content on Mobile Devices from Shoulder Surfing"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Malin Eiband, Martin Zürn, Heinrich Hussmann.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2018mti.pdf
+    display: Journal of Multimodal Technologies and Interaction 2018, 2(3), 45
+    DOI: https://doi.org/10.3390/mti2030045
+    video: https://youtu.be/Gew6jsXTHSU
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: journal
+  award: 
+  news2: 
+
+- title: "`Outsourcing' Security: Supporting People to Support Older Adults"
+  image: 
+  description: ""
+  authors: Lukas Mecke, Sarah Prange, Daniel Buschek, Mohamed Khamis, Mariam Hassib, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/mecke2018mobilehciadj.pdf
+    display: Proceedings of the Mobile HCI 2018 Workshop on Mobile Privacy and Security for an Aging Population, 2018.
+    DOI: https://csalsa.gitlab.io/mobilehciageing/papers/Mecke.pdf
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: workshop
+  award: 
+  news2: 
+
+- title: "GazeDrone: Mobile Eye-Based Interaction in Public Space Without Augmenting the User"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Anna Kienle, Florian Alt, Andreas Bulling.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2018dronet.pdf
+    display: Proceedings of the 4th ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet 2018)
+    DOI: http://doi.acm.org/10.1145/3213526.3213539
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: workshop
+  award: 
+  news2: 
+
+- title: "Hidden Pursuits: Evaluating Gaze-selection via Pursuits when the Stimulus Trajectory is Partially Hidden"
+  image: 
+  description: ""
+  authors: Thomas Mattusch, Mahsa Mirzamohammad, Mohamed Khamis, Andreas Bulling, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/mattusch2018etra.pdf
+    display: Proceedings of the ACM International Symposium on Eye Tracking Research & Applications (ETRA 2018)
+    DOI: https://doi.org/10.1145/3204493.3204569
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: 
+  news2: 
+
+- title: "Public HMDs: Modeling and Understanding User Behavior around Public Head-Mounted Displays"
+  image: 
+  description: ""
+  authors: Christian Mai, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/mai2018perdis.pdf
+    display: In Proceedings of the 8th International Symposium on Pervasive Displays (PerDis 2018)
+    DOI: https://doi.org/10.1145/3205873.3205879
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: 
+  news2: 
+
+
+- title: "VRPursuits: Interaction in Virtual Reality using Smooth Pursuit Eye Movements"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Carl Oechsner, Florian Alt, Andreas Bulling.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2018avi.pdf
+    display: Proceedings of the International Conference on Advanced Visual Interfaces (AVI 2018)
+    DOI: https://doi.org/10.1145/3206505.3206522
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: Honorable Mention Award (top 5% of submissions)
+  news2:
+
+
+- title: "Which one is me? Identifying Oneself on Public Displays"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Christian Becker, Andreas Bulling, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2018chi1.pdf
+    display: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018) - 25.7% acceptance rate
+    DOI: https://doi.org/10.1145/3173574.3173861
+    video: https://youtu.be/t1VrZ5LVnhc
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: Honorable Mention Award (top 5% of submissions)
+  news2:
+
+
+- title: "Understanding Face and Eye Visibility in Front-Facing Cameras of Smartphones used in the Wild"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Anita Baier, Niels Henze, Florian Alt, Andreas Bulling.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2018chi2.pdf
+    display: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018) - 25.7% acceptance rate
+    DOI: https://doi.org/10.1145/3173574.3173854
+    video: https://youtu.be/3MZjFgT4tNQ
+    talk: https://www.youtube.com/watch?v=_DUaP5u9QU0
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: 
+  news2:
+
+
+- title: "Pocket Transfers: Interaction Techniques for Transferring Content from Situated Displays to Mobile Devices"
+  image: 
+  description: ""
+  authors: Ville Mäkelä, Mohamed Khamis, Lukas Mecke, Jobin James, Markku Turunen, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/maekelae2018chi.pdf
+    display: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018) - 25.7% acceptance rate
+    DOI: http://dx.doi.org/10.1145/3173574.3173709
+    video: https://www.youtube.com/watch?v=uItOX_2IK3o
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: conference
+  award: 
+  news2:
+
+
+- title: "Exploring Participatory Design Methods to Engage with Arab Communities"
+  image: 
+  description: ""
+  authors: Ebtisam Alabdulqader, Shaimaa Lazem, Mohamed Khamis, Susan Dray.
+  link:
+    url: http://www.mkhamis.com/data/papers/arabhci2018.pdf
+    display: Proceedings of the 2018 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA 2018)
+    DOI: https://doi.org/10.1145/3170427.3170623
+    video:
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: Late-Breaking-Work
+  award: 
+  news2:
+
+- title: "Lunchocracy: Improving Eating Dynamics in the Workplace Using a Bot-Based Anonymous Voting System"
+  image: 
+  description: ""
+  authors: Mennatallah Saleh, Mohamed Khamis, Christian Sturm.
+  link:
+    url: http://www.mkhamis.com/data/papers/saleh2018chi.pdf
+    display: Proceedings of the 2018 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA 2018)
+    DOI: https://doi.org/10.1145/3170427.3188671
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2018
+  type: Late-Breaking-Work
+  award: 
+  news2:
+
+- title: "EyePACT: Eye-Based Parallax Correction on Touch-Enabled Interactive Displays"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Daniel Buschek, Tobias Thieron, Florian Alt, Andreas Bulling.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2017imwut.pdf
+    display: Proceedings of ACM on Interactive Mobile Wearable Ubiquitous Technologies (IMWUT) 1, 4, December 2017, 18 pages.
+    DOI: https://doi.org/10.1145/3161168
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: journal
+  award: 
+  news2:
+
+
+- title: "PerDis 2017"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, J. Henderson, Guiying Du.
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2017pervasive.pdf
+    display: IEEE Pervasive Computing 16(4): 86-89 (2017).
+    DOI: https://doi.org/10.1109/MPRV.2017.3971126
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: magazine
+  award: 
+  news2:
+
+
+- title: "They are all after you: Investigating the Viability of a Threat Model that involves Multiple Shoulder Surfers"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Linda Bandelow, Stina Schick, Dario Casadevall, Andreas Bulling, Florian Alt
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2017mum.pdf
+    display: Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia (MUM 2017)
+    DOI: https://doi.org/10.1145/3152832.3152865
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award: Honorable Mention Award (top 5% of submissions)
+  news2:
+
+- title: "BrainAtWork: Logging Cognitive Engagement and Tasks in the Workplace using Electroencephalography"
+  image: 
+  description: ""
+  authors: Mariam Hassib, Mohamed Khamis, Susanne Friedl, Stefan Schneegass and Florian Alt
+  link:
+    url: http://www.mkhamis.com/data/papers/hassib2017mum.pdf
+    display: Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia (MUM 2017)
+    DOI: https://doi.org/10.1145/3152832.3152865
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award: 
+  news2:
+
+- title: "TransparentHMD: Revealing the HMD User's Face to Bystanders"
+  image: 
+  description: ""
+  authors: Christian Mai, Lukas Rambold, Mohamed Khamis
+  link:
+    url: http://www.mkhamis.com/data/papers/mai2017mum.pdf
+    display: Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia (MUM 2017)
+    DOI: https://doi.org/10.1145/3152832.3157813
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: demo
+  award: 
+  news2:
+
+- title: "GazeTouchPIN: Protecting Sensitive Data on Mobile Devices using Secure Multimodal Authentication"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Mariam Hassib, Emanuel von Zezschwitz, Andreas Bulling, Florian Alt
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2017icmi.pdf
+    display: Proceedings of the 19th ACM International Conference on Multimodal Interaction (ICMI 2017)
+    DOI: https://doi.org/10.1145/3136755.3136809
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award: 
+  news2: 
+
+- title: "EyeScout: Active Eye Tracking for Position and Movement Independent Gaze Interaction with Large Public Displays"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Axel Hoesl, Alexander Klimczak, Martin Reiss, Florian Alt, Andreas Bulling
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2017uist.pdf
+    display: Proceedings of the 30th Annual ACM Symposium on User Interface Software & Technology (UIST 2017) - 22.5% acceptance rate
+    DOI: https://doi.org/10.1145/3126594.3126630
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award: 
+  news2: 
+  
+- title: "GTmoPass: Two-factor Authentication on Public Displays Using GazeTouch passwords and Personal Mobile Devices"
+  image: 
+  description: ""
+  authors: Mohamed Khamis, Regina Hasholzner, Andreas Bulling, Florian Alt
+  link:
+    url: http://www.mkhamis.com/data/papers/khamis2017perdis.pdf
+    display: Proceedings of the 6th International Symposium on Pervasive Displays (PerDis 2017)
+    DOI: http://dx.doi.org/10.1145/3078810.3078815
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award: 
+  news2: 
+
+- title: "They are looking at me! Understanding how Audience Presence Impacts on Public Display Users"
+  image: 
+  description: ""
+  authors: Vito Gentile, Mohamed Khamis, Salvatore Sorce, Florian Alt
+  link:
+    url: http://www.mkhamis.com/data/papers/gentile2017perdis.pdf
+    display: Proceedings of the 6th International Symposium on Pervasive Displays (PerDis 2017)
+    DOI: http://dx.doi.org/10.1145/3078810.3078822
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award: 
+  news2: 
+
+- title: "Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication"
+  image: dummy.png
+  description: ""
+  authors: Yomna Abdelrahman*, Mohamed Khamis*, Stefan Schneegass, Florian Alt.
+  link:
+    url: http://www.medien.ifi.lmu.de/pubdb/publications/pub/abdelrahman2017chi/abdelrahman2017chi.pdf
+    display: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems 
+    DOI: http://dx.doi.org/10.1145/3025453.3025461
+    video: https://youtu.be/a2Q64XmZpc4
+    talk: https://www.youtube.com/watch?v=QFQlCwtybqo 
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award: Honorable Mention Award (top 5% of submissions)
+  news2: 
   
 
+- title: "Understanding Shoulder Surfing in the Wild: Stories from Users and Observers"
+  image: dummy.png
+  description: ""
+  authors: Malin Eiband, Mohamed Khamis, Emanuel von Zezschwitz, Heinrich Hussmann, Florian Alt.
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
+    display: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems 
+    DOI: http://dx.doi.org/10.1145/3025453.3025636
+    video: 
+    talk:
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award: 
+  news2: 
+
+- title: "Challenges and Opportunities of Supernumerary Robotic Limbs
+"
+  description: ""
+  authors: Mohammed Al Sada, Mohamed Khamis, Akira Kato, Shigeki Sugano, Tatsuo Nakajima, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/alsada2017amplify.pdf
+    display: In Proceedings of the CHI 2017 Workshop on Amplification and Augmentation of Human Perception (Amplify 2017)
+    DOI: 
+    video:
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: workshop
+  award:
+  news2:
+
+- title: "HelpMe: Assisting Older Adults in Performing Tasks on Mobile Devices"
+  description: ""
+  authors: Oliver Duerr, Mohamed Khamis, Daniel Buschek, Florian Alt.
+  link:
+    url: http://www.mkhamis.com/data/papers/duerr2017olderadults.pdf
+    display: In Proceedings of the CHI 2017 Workshop on Designing Mobile Interactions for the Ageing Populations.
+    DOI: 
+    video:
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: workshop
+  award:
+  news2:
+
+- title: "Seamless and Secure VR: Adapting and Evaluating Established Authentication Systems for Virtual Reality"
+  description: ""
+  authors: Ceenu George, Mohamed Khamis, Emanuel von Zezschwitz, Marinus Burger, Henri Schmidt, Florian Alt, Heinrich Hussmann.
+  link:
+    url: http://www.mkhamis.com/data/papers/george2017usec.pdf
+    display: In Proceedings of the USEC Conference in conjunction with NDSS 2017.
+    DOI: http://dx.doi.org/10.14722/usec.2017.23028
+    video: https://youtu.be/0JCWSbSv_cM
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2017
+  type: conference
+  award:
+  news2:
 
 - title: "EyeVote in the Wild: Do Users bother Correcting System Errors on Public Displays?"
   description: ""
