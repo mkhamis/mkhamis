@@ -1,6 +1,6 @@
 - title: "Fast and Secure Authentication in Virtual Reality using Coordinated 3D Manipulation and Pointing"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+  description: "We present RubikAuth, an authentication scheme for VR where users authenticate quickly and securely by selecting digits from a virtual 3D cube that leverages coordinated 3D manipulation and pointing. We report on results from three studies comparing how pointing using eye gaze, head pose, and controller tapping impact RubikAuth's usability, memorability, and observation resistance under three realistic threat models. We found that entering a four-symbol RubikAuth password is fast and highly resilient to observations. Our work underlines the importance of considering novel but realistic threat models beyond standard one-time attacks to fully assess the observation-resistance of authentication schemes. We outline five learned lessons for designing and evaluating authentication schemes for immersive virtual reality. "
+  image: mathis2020tochi.png
   authors: Florian Mathis, John Williamson, Kami Vaniea, Mohamed Khamis.
   link:
     url: http://www.mkhamis.com/data/papers/mathis2020tochi.pdf
@@ -165,7 +165,8 @@
 
 
 - title: "The Role of Eye Gaze in Security and Privacy Applications: Survey and Future HCI Research Directions"
-  description: ""
+  description: "We present a holistic view on gaze-based security applications. In particular, we canvassed the literature and classify the utility of gaze in security applications into a) authentication, b) privacy protection, and c) gaze monitoring during security critical tasks. This allows us to chart several research directions, most importantly 1) conducting field studies of implicit and explicit gaze-based authentication due to recent advances in eye tracking, 2) research on gaze-based privacy protection and gaze monitoring in security critical tasks which are under-investigated yet very promising areas, and 3) understanding the privacy implications of pervasive eye tracking. We discuss the most promising opportunities and most pressing challenges of eye tracking for security that will shape research in gaze-based security applications for the next decade."
+  image: katsini2020chi.png
   authors: Christina Katsini, Yasmeen Abdrabou, George Raptis, Mohamed Khamis, Florian Alt.
   link:
     url: http://www.mkhamis.com/data/papers/katsini2020chi.pdf
@@ -1029,8 +1030,8 @@
   news2: 
 
 - title: "Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication"
-  image: dummy.png
-  description: ""
+  image: abdelrahman2017chi.png
+  description: "As thermal cameras become ubiquitous and affordable, we foresee a new form of threat to user privacy on mobile devices. Thermal cameras allow performing thermal attacks, where heat traces, resulting from authentication, can be used to reconstruct passwords. In this work we investigate in details the viability of exploiting thermal imaging to infer PINs and patterns on mobile devices. We present a study (N=18) where we evaluated how properties of PINs and patterns influence their thermal attacks resistance. We found that thermal attacks are indeed viable on mobile devices; overlapping patterns significantly decrease successful thermal attack rate from 100% to 16.67%, while PINs remain vulnerable (>72% success rate) even with duplicate digits"
   authors: Yomna Abdelrahman*, Mohamed Khamis*, Stefan Schneegass, Florian Alt.
   link:
     url: http://www.medien.ifi.lmu.de/pubdb/publications/pub/abdelrahman2017chi/abdelrahman2017chi.pdf
