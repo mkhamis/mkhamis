@@ -23,7 +23,7 @@
   education1: M.Sc. from German University in Cairo (GUC)
 
 - name: Norah Alotaibi
-  photo: bio-photo.jpg
+  photo: bio-photo.png
   info: PhD Student, started Jan 2020
   email: n.alotaibi.3@research.gla.ac.uk
   number_educ: 1
@@ -38,7 +38,7 @@
   education2: B.Sc.
 
 - name: Robin Bretin 
-  photo: bio-photo.jpg
+  photo: bio-photo.png
   info: PhD Student in the SOCIAL CDT programme, started Oct 2020
   email: 2605336B@student.gla.ac.uk
   number_educ: 2
@@ -47,7 +47,7 @@
   
 
 - name: Joseph O'Hagan
-  photo: bio-photo.jpg
+  photo: bio-photo.png
   info: PhD student (secondary supervisor), started Oct 2018.
   email: j.ohagan.1@research.gla.ac.uk
   number_educ: 1
@@ -57,7 +57,7 @@
   education4:
 
 - name: "This could be you !"
-  photo: you-bio-photo.jpg
+  photo: you-bio-photo.png
   info: See <a href="/join-our-lab">Join Our Lab</a> for more info.
   email: mohamed.khamis@glasgow
   number_educ: 0

@@ -20,7 +20,7 @@
   education1: M.Sc. from German University in Cairo (GUC)
 
 - name: Norah Alotaibi, M.Sc.
-  photo: bio-photo.jpg
+  photo: bio-photo.png
   info: PhD Student, started Jan 2020
   email: n.alotaibi.3@research.gla.ac.uk
   keywords: Thermal Imaging, Machine Learning, Security
@@ -49,7 +49,7 @@
   
 
 - name: Joseph O'Hagan
-  photo: bio-photo.jpg
+  photo: bio-photo.png
   keywords: Virtual Reality, Augmented Reality, Mixed Reality, 
   info: PhD student (secondary supervisor), started Oct 2018.
   email: j.ohagan.1@research.gla.ac.uk
@@ -57,7 +57,7 @@
   
 
 - name: "This could be you !"
-  photo: you-bio-photo.jpg
+  photo: you-bio-photo.png
   info: See <a href="/join-our-lab">Join Our Lab</a> for more info.
   email: mohamed.khamis@glasgow
   number_educ: 0
