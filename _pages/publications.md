@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=0OupgU0AAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=0OupgU0AAAAJ), [OrcID](https://orcid.org/0000-0001-7051-5200))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -107,7 +107,7 @@ permalink: /publications/
 
 {% endfor %}
 
-## Other publications (Peer-reviewed workshop papers and proposals, and juried late-breaking-work papers.)
+## Other publications (peer-reviewed workshop papers and proposals, and juried late-breaking-work papers).
 
 {% for publi in site.data.publist %}
 

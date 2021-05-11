@@ -684,7 +684,7 @@
   news2:
 
 - title: "The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey and Lessons Learned"
-  image: 
+  image: khamis2018mobilehci.png
   description: ""
   authors: Mohamed Khamis, Florian Alt, Andreas Bulling.
   link:
@@ -694,7 +694,7 @@
     video: https://youtu.be/Gew6jsXTHSU
     talk:
     bibtex: 
-  highlight: 0
+  highlight: 1
   year: 2018
   type: "conference"
   award: Honorable Mention Award (top 5% of submissions)
