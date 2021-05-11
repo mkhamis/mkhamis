@@ -1,3 +1,20 @@
+ 
+- title: "Observing Virtual Avatars: The Impact of Avatars' Fidelity on Identifying Interactions"
+  description: ""
+  authors: Florian Mathis, Kami Vaniea, Mohamed Khamis.
+  link:
+    url: http://www.mkhamis.com/data/papers/mathis2021mindtrek.pdf
+    display: In Proceedings of the 24th International Conference on Academic Mindtrek (Mindtrek 2021).  
+    DOI: https://doi.org/10.1145/3464327.3464329
+    video: 
+    talk: 
+    bibtex: 
+  highlight: 0
+  year: 2021
+  type: "conference"
+  award: 
+  news2:    
+
 - title: "Fast and Secure Authentication in Virtual Reality using Coordinated 3D Manipulation and Pointing"
   description: "We present RubikAuth, an authentication scheme for VR where users authenticate quickly and securely by selecting digits from a virtual 3D cube that leverages coordinated 3D manipulation and pointing. We report on results from three studies comparing how pointing using eye gaze, head pose, and controller tapping impact RubikAuth's usability, memorability, and observation resistance under three realistic threat models. We found that entering a four-symbol RubikAuth password is fast and highly resilient to observations. Our work underlines the importance of considering novel but realistic threat models beyond standard one-time attacks to fully assess the observation-resistance of authentication schemes. We outline five learned lessons for designing and evaluating authentication schemes for immersive virtual reality. "
   image: mathis2020tochi.png
@@ -131,6 +148,7 @@
   award: 
   news2:  
   
+
 - title: "Are my Apps Peeking? Comparing Nudging Mechanisms to Raise Awareness of Access to Mobile Front-facing Camera"
   description: ""
   authors: Mariam Hassib, Hatem Abdelmoteleb, Mohamed Khamis.
