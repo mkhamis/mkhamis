@@ -11,10 +11,12 @@ permalink: /join-our-lab
 We are always looking for new excellent group members. You will have the chance to work in the forefront of science in human-computer interaction and human-centred security with world leading researchers. You will be involved in understanding today's problems in HCI and security, and in inventing and evaluating forward-looking solutions for tomorrow. 
 
 ### Current open positions
+{% comment %}
 There are currently no openings. Please check again soon because we will soon be recruiting research assistants/associates in topics related to security threats of thermal imaging and child safety in virtual reality. 
+{% endcomment %}
+<b>Opening 1 (postdoc position)</b>: We are looking for a postdoc (start date August 2021, 18 months) with experience in applying machine learning in HCI and/or security problems. In particular, the successful candidate will work on analyzing thermal images using image processing and ML techniques. The official advert will be online soon. For now if you have questions get in touch with Mohamed Khamis. 
 {% comment %}
 <b>Opening 1</b>: As part of an EPSRC project on Assessing, Mitigating and Raising Awareness of the Security and Privacy Risks of Thermal Imaging [EP/V008870/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V008870/1), we are looking for a PhD student to start as soon as possible. The studentship is funded is fully funded for 3.5 years on the UK rate, and covers tuition fees and a monthly stipend. International candidates will need to fund the difference in tuition fees using other means. 
-
 {% endcomment %}
 
 ### PhD Opportunities
