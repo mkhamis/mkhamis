@@ -48,6 +48,27 @@
   award: 
   news2: 
 
+- title: "Interorganizational Cooperation in Supply Chain Cybersecurity: A Cross-Industry Study of the Effectiveness of the UK Implementation of the NIS Directive."
+  description: ""
+  authors: Tania Wallis, Chris Johnson, Mohamed Khamis.
+  link: 
+    DOI: https://doi.org/10.11610/isij.4812
+    display: Information & Security: An International Journal. Vol. 48., 2021.
+  highlight: 0
+  year: 2021
+  type: "journal"
+  
+
+- title: "Special issue on pervasive displays."
+  description: ""
+  authors: Jessica Cauchard, Nigel Davies, Vito Gentile, Salvatore Sorce, Mohamed Khamis.
+  link: 
+    DOI: https://doi.org/10.1007/s00779-021-01559-8
+    display: Personal and Ubiquitous Computing, 2021.
+  highlight: 0
+  year: 2021
+  type: "journal"
+  
 
 - title: "GazeMeter: Exploring the Usage of Gaze Behaviour to enhance Password Assessments"
   description: ""
