@@ -14,13 +14,13 @@ We are always looking for new excellent group members. You will have the chance 
 {% comment %}
 There are currently no openings. Please check again soon because we will soon be recruiting research assistants/associates in topics related to security threats of thermal imaging and child safety in virtual reality. 
 {% endcomment %}
-<b>Opening 1 (postdoc position)</b>: We are looking for a postdoc (start date August 2021, 18 months) with experience in applying machine learning in HCI and/or security problems. In particular, the successful candidate will work on analyzing thermal images using image processing and ML techniques. The official advert will be online soon. For now if you have questions get in touch with Mohamed Khamis. 
+<b>Opening 1 (postdoc position)</b>: We are looking for a postdoc (start date August 2021, 18 months) with experience in applying machine learning in HCI and/or security problems. In particular, the successful candidate will work on analyzing thermal images using image processing and ML techniques as part of the [PT.HEAT project](https://petras-iot.org/project/preventing-thermal-attacks-pt-heat/) which is funded by the PETRAS National Centre of Excellence for IoT Systems. Apply here: (https://www.jobs.ac.uk/job/CGP041/research-assistant-associate)
 {% comment %}
 <b>Opening 1</b>: As part of an EPSRC project on Assessing, Mitigating and Raising Awareness of the Security and Privacy Risks of Thermal Imaging [EP/V008870/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V008870/1), we are looking for a PhD student to start as soon as possible. The studentship is funded is fully funded for 3.5 years on the UK rate, and covers tuition fees and a monthly stipend. International candidates will need to fund the difference in tuition fees using other means. 
 {% endcomment %}
 
 ### PhD Opportunities
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:mohamed.khamis@glasgow.ac.uk). State briefly why you are interested and include 1) your CV, 2) your publications list and/or your latest thesis (e.g., MSc thesis or final year project report), 3) highlight the experiences and interests that are relevant to the work we do in SIRIUS, and 4) information about your grades so far. No need for a separate cover letter or certificates. 
+If you are interested in working with us as a PhD student or postdoc, please send me on [email](mailto:mohamed.khamis@glasgow.ac.uk). State briefly why you are interested and include 1) your CV, 2) your publications list and/or your latest thesis (e.g., MSc thesis or final year project report), 3) highlight the experiences and interests that are relevant to the work we do in SIRIUS, and 4) information about your grades so far. No need for a separate cover letter or certificates. 
 
 Apart from the open positions, there are scholarships every year offered by the University of Glasgow and others. 
 
