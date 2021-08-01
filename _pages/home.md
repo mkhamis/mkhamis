@@ -7,7 +7,7 @@ permalink: /
 ---
 
 The SIRIUS Lab is a research team at the [University of Glasgow's GIST Research Section](https://www.gla.ac.uk/schools/computing/research/researchsections/gist-section/). 
-Our team adopts a human-centered approach to design, implement and evaluate <span style="text-decoration: underline">*S*</span>ecure and pr<span style="text-decoration: underline">*I*</span>vacy <span style="text-decoration: underline">*R*</span>espectIng <span style="text-decoration: underline">*U*</span>biquitous <span style="text-decoration: underline">*S*</span>ystems. The team continues to make significant contributions to Human-Computer Interaction, Usable Privacy and Security, UbiComp and Privacy and Security in Mixed Reality. We regularly publish at ACM CHI, IMWUT/UbiComp, TOCHI and other top HCI, ubicomp and security venues. Our work is funded by the Engineering and Physical Sciences Research Council (EPSRC), Royal Society of Edinburgh, and the National Cyber Security Centre (NCSC)
+Our team adopts a human-centered approach to design, implement and evaluate <span style="text-decoration: underline">*S*</span>ecure and pr<span style="text-decoration: underline">*I*</span>vacy <span style="text-decoration: underline">*R*</span>espectIng <span style="text-decoration: underline">*U*</span>biquitous <span style="text-decoration: underline">*S*</span>ystems. The team continues to make significant contributions to Human-Computer Interaction, Usable Privacy and Security, UbiComp and Privacy and Security in Mixed Reality. We regularly publish at ACM CHI, IMWUT/UbiComp, TOCHI and other top HCI, ubicomp and security venues. Our work is funded by Facebook Reality Labs, the Engineering and Physical Sciences Research Council (EPSRC), Royal Society of Edinburgh, the PETRAS National Centre of Excellence for IoT Systems Cybersecurity, and the National Cyber Security Centre (NCSC)
 
 
 
@@ -56,12 +56,12 @@ We are located at University of Glasgow, and are part of the GIST research secti
 
 <h2>Funding</h2>
 
-Our work is funded by grants from the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), and the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/). 
+Our work is funded by grants from [Facebook Reality Labs](https://research.fb.com/), the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), the [PETRAS National Centre of Excellence for IoT Systems Cybersecurity](https://petras-iot.org/), and the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/). 
 We contribute to the [SOCIAL CDT](https://socialcdt.org/), a Centre for Doctoral Training on socially intelligent artifical agents.
 
 {% comment %}
 
-Our work is funded by grants from the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/), the [PETRAS National Centre of Excellence for IoT Systems Cybersecurity](https://petras-iot.org/),and [Facebook Reality Labs](https://research.fb.com/). 
+Our work is funded by grants from the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/), the [PETRAS National Centre of Excellence for IoT Systems Cybersecurity](https://petras-iot.org/), and [Facebook Reality Labs](https://research.fb.com/). 
 We contribute to the [SOCIAL CDT](https://socialcdt.org/), a Centre for Doctoral Training on socially intelligent artifical agents.
 
 <figure class="fourth">
