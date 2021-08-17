@@ -47,9 +47,9 @@
   number_educ: 0
 
 - name: Melvin Abraham.
-  photo: bio-photo.png
+  photo: abraham.png
   info: PhD student, started July 2021
-  description: 
+  description: Melvin's research is based on identifying and communicating security & privacy risks to a user within mixed reality. Looking specifically at how mixed reality can be leveraged, to communicate effectively when a users data is being collected or if a security risk is present.
   keywords: Privacy, Virtual Reality, Usable Security
   email: m.abraham.1@research.gla.ac.uk
   personal_website: 
