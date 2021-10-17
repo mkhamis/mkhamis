@@ -72,6 +72,16 @@
   number_educ: 0
   personal_website: https://www.linkedin.com/in/cristina-fiani/
  
+  
+- name: Noora AlSakar
+  photo: bio-photo.png
+  info: PhD Student, started Oct 2021
+  keywords: Privacy, Human centered security, Augmented reality.
+  description: "Recent advances in mobile devices led them to seamlessly support eye tracking. This brings a lot of advantages to interaction. However, eye movements also reveal sensitive attributes about the user. My research aims to investigate the privacy risks of eye tracking on handheld mobile devices and design protective measures using AR based solutions."
+  email: n.alsakar.1@research.gla.ac.uk
+  number_educ: 0
+  personal_website: https://sa.linkedin.com/in/noora-alsaqer-1a85b8bb
+ 
 
 - name: "This could be you !"
   photo: you-bio-photo.jpg
