@@ -21,8 +21,9 @@
   
 - name: Md Shafiqul Islam
   photo: Shafiqul.jpg
-  email: 
-  keywords:
+  email: MdShafiqul.Islam@glasgow.ac.uk
+  info: Post Doctoral Research Associate
+  keywords: computer vision, machine learning, EEG
   description: Shafiqul is developing interfaces to prevent thermal images attacks using computer vision techniques. He completed his PhD in Computer Science and Engineering with research interests in signal and image processing, machine and deep learning. His PhD dissertation is about applying advanced machine learning techniques for diabetes management and prediction. He developed a machine learning framework that can predict whether a subject will develop diabetes within the next 7-8 years or not. During his MS studies in Electrical and Computer Engineering, he worked on artifact removal from EEG signals for ambulatory epileptic seizure prediction applications. Both of his works have been published in IEEE sensor and biomedical signal processing journals. 
   personal_website:
   number_educ: 1
