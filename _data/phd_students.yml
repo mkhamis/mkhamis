@@ -22,6 +22,7 @@
 - name: Norah Alotaibi, M.Sc.
   photo: bio-photo.png
   info: PhD Student, started Jan 2020
+  description: Thermal cameras can be utilized inconspicuously to expose heat traces left on input interfaces, posing a rising threat of a new front for side channel attacks. My research project investigates deep learning models that can improve the accuracy of thermal attacks and test them in real-world scenarios in an attempt to understand the impact of thermal attacks on user privacy and security. This project will also contribute to the development of mechanisms to counter thermal attacks.
   email: n.alotaibi.3@research.gla.ac.uk
   keywords: Thermal Imaging, Machine Learning, Security
   number_educ: 0
