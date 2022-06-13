@@ -31,6 +31,7 @@ incremental: false
 
 plugins:
  -  jekyll/scholar
+ -  jekyll-twitter-plugin
 
 # Markdown Processing
 kramdown:
