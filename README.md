@@ -1,4 +1,4 @@
-# SIRIUS Lab Website
+# SIRIUS Lab Website 
 
 This is the website of our academic research group at the University of Glasgow. 
 
