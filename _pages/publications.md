@@ -120,3 +120,14 @@ permalink: /publications/
 
 {% endfor %}
 
+## Newer Publications
+
+<b>The publications below are in need of manual review, hence may not be fully accurate/up-to-date. Automatically obtained on {{ site.data.last_updated.date }}</b>
+
+{% for publi in site.data.crawled_publist %}
+
+{{ publi.title }} <br />
+<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
