@@ -8,48 +8,22 @@ permalink: /grants/
 
 # Grants
 
-### Royal Society of Edinburgh
+{% assign org = none %}
 
-<b>Title:</b> There is more to gaze data than fixations and saccades
+{% for grant in site.data.grants | group_by:"org" %}
 
-<b>Amount awarded:</b> £12,535k
+{% if grant.org != org %}
+### {{ grant.org }}
+{% endif %}
 
+{% assign org = grant.org %}
 
-<b>Title:</b> Understanding and Mitigating the Security Risks of Thermal Imaging
+<b>Title: </b> {{ grant.title }}<br>
+<b>Amount Awarded: </b> {{ grant.amount }}<br>
+{% if grant.link != None %}
+More information can be found <a href="{{ grant.link }}">here</a>
+{% endif %}
 
-<b>Amount awarded:</b> £65,616
+<br>
+{% endfor %}
 
-
-### REPHRAIN
-
-<b>Title:</b> PriXR: Protecting XR User and Bystander Privacy
-
-<b>Amount awarded:</b> £79,997k
-
-
-### PETRAS
-
-<b>Title:</b> PT.HEAT: Preventing THErmal ATtacks
-
-<b>Amount awarded:</b> £177,075k
-
-
-### Facebook Reality Labs
-
-<b>Title:</b> Facilitating Parental Insight and Moderation for Safe Social VR
-
-<b>Amount awarded:</b> $75,000
-
-
-### NCSC / RITICS
-
-<b>Title:</b> Emergence of cybersecurity capability across Critical National infrastructure
-
-<b>Amount awarded:</b> £140,731
-
-
-### EPSRC
-
-<b>Title:</b> TAPS: Assessing, Mitigating and Raising Awareness of the Security and Privacy Risks of Thermal Imaging
-
-<b>Amount awarded:</b> £262,119

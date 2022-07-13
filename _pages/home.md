@@ -56,7 +56,9 @@ We are located at University of Glasgow, and are part of the GIST research secti
 
 <h2>Funding</h2>
 
-Our work is funded by grants from [Facebook Reality Labs](https://research.fb.com/), the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), the [PETRAS National Centre of Excellence for IoT Systems Cybersecurity](https://petras-iot.org/), and the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/). 
+Our work is funded by grants from [Facebook Reality Labs](https://research.fb.com/), the [UK's Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/), the [Royal Society of Edinbugh](https://www.rse.org.uk/), the [PETRAS National Centre of Excellence for IoT Systems Cybersecurity](https://petras-iot.org/), and the [UK's National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/). More information on these grants can be located on their respective websites, or through the grants page [here]({% link _pages/grants.md %}).
+
+
 We contribute to the [SOCIAL CDT](https://socialcdt.org/), a Centre for Doctoral Training on socially intelligent artifical agents.
 
 {% comment %}
