@@ -1,15 +1,48 @@
 - name: Nicolae Marton 
-  photo: 
+  photo: bio-photo.png
   duration: Intern from June 2019 to September 2019. Now MSc student in UCL. 
   info: During his internship, Nicolae designed and implemented a novel privacy protector for voice assistant systems. 
   email: 
   number_educ: 1
   education1: Honours degree in computer science from University of Glasgow.  
+  
 - name: Kelsey Collington
   photo: bio-photo.png
   duration: Research Assistant on NCSC project. Now PhD student at UofG. 
-  info: 
+  info:
   email: 
   personal_website: https://www.gla.ac.uk/schools/computing/staff/kelseycollington/
   number_educ: 0
   education1: 
+  
+- name: Dr. Martin Schmitz
+  photo: schmitz.jpg
+  duration:
+  info: Affiliate - Postdoc at the Technical University of Darmstadt
+  description: I am a postdoctoral researcher and head of the HCI group at Telecooperation Lab led by Max Mühlhäuser. My current research interests include Mixed Reality, Haptics, and Fabrication. I have a background in computer science, psychology, and visual computing. I explored 3D-printed interfaces in my PhD (supervised by Max Mühlhäuser and Jürgen Steimle). If you are interested, please check my recent publications or contact me. 
+  keywords: Mixed Reality, Haptics, Fabrication
+  email: martin@mschmitz.org
+  personal_website: https://mschmitz.org/
+  number_educ: 0
+  
+- name: Alina Stöver, M.Sc.
+  photo: stover.jpg
+  duration:
+  info: Visiting researcher - PhD student in Psychology at the Technical University of Darmstadt
+  description: Coming from psychology, Alina is looking at the human factors in privacy.  Her research deals with user perceptions (e.g., personal privacy assistants) and the perspective of privacy responsible parties (e.g., website owners).
+  keywords: Usable Privacy, Human factors, Personal Privacy Assistants
+  email: stoever@psychologie.tu-darmstadt.de
+  personal_website: https://www.arbing.psychologie.tu-darmstadt.de/fai/team_fai/team_fai_details_56768.de.jsp
+  number_educ: 0
+  
+- name: Dr. Karola Marky
+  photo: marky.jpg
+  duration:
+  info: Post Doctoral Research Associate
+  email: karola.marky@glasgow.ac.uk  
+  keywords: HCI, Usable Security, E-Voting
+  description:  
+  number_educ: 0
+  education1: PhD from the Technical University of Darmstadt
+  personal_website: https://www.gla.ac.uk/schools/computing/staff/karolamarky/
+  post_lab: Assistant Professor at University of Hanover

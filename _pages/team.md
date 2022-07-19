@@ -288,8 +288,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-{% comment %}
-## Alumni
+## Former Members and Past Visitors
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -303,7 +302,15 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  {% if member.duration != None %}
+  <i>{{ member.duration }}</i> <br>
+  {% endif %}
+  {% if member.info != None %}
+  Role: <i>{{ member.info }}</i>
+  {% endif %}
+  {% if member.post_lab != None %}
+  Now: <i>{{ member.post_lab }}</i>
+  {% endif %}
   <ul style="overflow: hidden">
 
   </ul>
@@ -321,8 +328,6 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-{% endcomment %}
 
 ## Academic Collaborations
 
