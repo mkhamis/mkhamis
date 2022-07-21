@@ -126,4 +126,5 @@ with open(r'_data/crawled_publist.yml', 'w') as file:
 
 #Finally, set a last-updated in file
 with open('_data/last_updated.yml','w') as file:
-    outputs = yaml.dump(date.today().strftime("%d/%m/%Y at %H:%M"), file)
+    data = {'date':date.today().strftime("%d/%m/%Y")}
+    outputs = yaml.dump(date, file)
