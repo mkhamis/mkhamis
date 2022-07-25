@@ -1,6 +1,6 @@
 - name: Maximillian Häring
   photo: bio-photo.png
-  info: Visiting researcher - PhD student in
+  info: Visiting researcher - PhD student
   description: I am a PhD student working in the field of usable security under the supervision of Matthew Smith. Within the greater area of trust, I research the software developers' handling of foreign code, motivated by current incidents. I am especially interested in the processes of small teams of open source contributors.
   keywords: Usable Security, Open Source, Developer
   email: mhaering@uni-bonn.de
@@ -9,7 +9,7 @@
 
 - name: Eva Gerlitz
   photo: gerlitz.jpg
-  info: Visiting researcher - PhD student in
+  info: Visiting researcher - PhD student
   description: I am a PhD student at the University of Bonn, Germany under the supervision of Matthew Smith. My research focuses on authentication in company settings and problems decision makers face when implementing authentication procedures.
   keywords: Authentication, Password Policies, Expert Users
   email: gerlitz@cs.uni-bonn.de
