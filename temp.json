@@ -85,18 +85,6 @@
     "year": "2022"
   },
   {
-    "title": "Special issue on pervasive displays",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:q3oQSFYPqjQC",
-    "citation_id": "0OupgU0AAAAJ:q3oQSFYPqjQC",
-    "authors": "JR Cauchard, N Davies, V Gentile, S Sorce, M Khamis",
-    "publication": "Personal and Ubiquitous Computing 26 (3), 587-591, 2022",
-    "cited_by": {
-      "value": null,
-      "link": "https://scholar.google.com"
-    },
-    "year": "2022"
-  },
-  {
     "title": "User-centred multimodal authentication: securing handheld mobile devices using gaze and touch input",
     "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:N5tVd3kTz84C",
     "citation_id": "0OupgU0AAAAJ:N5tVd3kTz84C",
@@ -456,6 +444,18 @@
     "year": "2021"
   },
   {
+    "title": "Special issue on pervasive displays",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:q3oQSFYPqjQC",
+    "citation_id": "0OupgU0AAAAJ:q3oQSFYPqjQC",
+    "authors": "JR Cauchard, N Davies, V Gentile, S Sorce, M Khamis",
+    "publication": "Personal and Ubiquitous Computing, 1-5, 2021",
+    "cited_by": {
+      "value": null,
+      "link": "https://scholar.google.com"
+    },
+    "year": "2021"
+  },
+  {
     "title": "Using Personal Data to Support Authentication: User Attitudes and Suitability",
     "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:bnK-pcrLprsC",
     "citation_id": "0OupgU0AAAAJ:bnK-pcrLprsC",
@@ -665,7 +665,7 @@
     "authors": "F Mathis, HI Fawaz, M Khamis",
     "publication": "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing \u2026, 2020",
     "cited_by": {
-      "value": 21,
+      "value": 22,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10328139795353830487",
       "serpapi_link": "https://serpapi.com/search.json?cites=10328139795353830487&engine=google_scholar&hl=en",
       "cites_id": "10328139795353830487"
