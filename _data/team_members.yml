@@ -55,6 +55,17 @@
   education2:
   education3:
   education4:
+  
+  
+- name: Joseph O'Hagan
+  photo: bio-photo.png
+  info: PhD student (secondary supervisor), started Oct 2018.
+  email: j.ohagan.1@research.gla.ac.uk
+  number_educ: 1
+  education1: Leidse Instrumentmakers School
+  education2:
+  education3:
+  education4:
 
 - name: "This could be you !"
   photo: you-bio-photo.png

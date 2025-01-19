@@ -8,6 +8,12 @@ permalink: /team/
 
 # Team Members
 
+
+<div class="row">
+<img src="https://mkhamis.github.io/mkhamis/images/teampic/sirius.jpg" class="img-responsive" width = "100%" style="float: left"/>
+
+</div>
+
  **We are  looking for new PhD students, Postdocs, and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join-our-lab) **!**
 
 
@@ -41,6 +47,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+{% if site.data.ra_postdoc.size > 0 %}
 ## Postdocs and Research Assistants
 {% assign number_printed = 0 %}
 {% for member in site.data.ra_postdoc %}
@@ -103,6 +110,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
+{% endif %}
 {% endif %}
 
 ## PhD Students
@@ -219,6 +227,33 @@ permalink: /team/
   </ul>
   <p>{{ member.description }}<br>
   <b>keywords:</b> {{ member.keywords }}</p>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+## Alumni members
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  {{ member.name }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

@@ -1,0 +1,48 @@
+I"�<p>The SIRIUS Lab is a research team at the <a href="https://www.gla.ac.uk/schools/computing/research/researchsections/gist-section/">University of Glasgow’s GIST Research Section</a>. 
+Our team adopts a human-centered approach to design, implement and evaluate <span style="text-decoration: underline"><em>S</em></span>ecure and pr<span style="text-decoration: underline"><em>I</em></span>vacy <span style="text-decoration: underline"><em>R</em></span>espectIng <span style="text-decoration: underline"><em>U</em></span>biquitous <span style="text-decoration: underline"><em>S</em></span>ystems. The team continues to make significant contributions to Human-Computer Interaction, Usable Privacy and Security, UbiComp and Privacy and Security in Mixed Reality. We regularly publish at ACM CHI, IMWUT/UbiComp, TOCHI and other top HCI, ubicomp and security venues. Our work is funded by Facebook Reality Labs, the Engineering and Physical Sciences Research Council (EPSRC), Royal Society of Edinburgh, the PETRAS National Centre of Excellence for IoT Systems Cybersecurity, and the National Cyber Security Centre (NCSC)</p>
+
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <!-- add new sliders here -->
+    </ol>
+    <!-- Items -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="http://localhost:4000/mkhamis/images/slider7001400/VRAuthentication.jpg" alt="Authentication in Virtual Reality" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/mkhamis/images/slider7001400/RepliCueAuthCHI.jpg" alt="RepliCuAuth: Usability and Security Evaluations in VR" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/mkhamis/images/slider7001400/thermal2.jpg" alt="Thermal Imaging Attacks" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/mkhamis/images/slider7001400/shoulder-surfing.jpg" alt="Shoulder Surfing" />
+        </div>
+     <!-- and here -->
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<p>We are located at University of Glasgow, and are part of the GIST research section, which is one of the world leading HCI groups.</p>
+
+<p><strong>We are  looking for passionate new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/mkhamis/join-our-lab">(more info)</a> **</p>
+
+<h2>Funding</h2>
+
+<p>Our work is funded by grants from <a href="https://research.fb.com/">Facebook Reality Labs</a>, the <a href="https://epsrc.ukri.org/">UK’s Engineering and Physical Sciences Research Council (EPSRC)</a>, the <a href="https://www.rse.org.uk/">Royal Society of Edinbugh</a>, the <a href="https://petras-iot.org/">PETRAS National Centre of Excellence for IoT Systems Cybersecurity</a>, and the <a href="https://www.ncsc.gov.uk/">UK’s National Cyber Security Centre (NCSC)</a>. 
+We contribute to the <a href="https://socialcdt.org/">SOCIAL CDT</a>, a Centre for Doctoral Training on socially intelligent artifical agents.</p>
+
+:ET

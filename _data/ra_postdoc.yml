@@ -1,40 +1,40 @@
-- name: Dr. Karola Marky
-  photo: marky.jpg
-  info: Post Doctoral Research Associate
-  email: karola.marky@glasgow.ac.uk  
-  keywords: HCI, Usable Security, E-Voting
-  description:  
-  number_educ: 0
-  education1: PhD from the Technical University of Darmstadt
-  personal_website: https://www.gla.ac.uk/schools/computing/staff/karolamarky/
+# - name: Dr. Karola Marky
+  # photo: marky.jpg
+  # info: Post Doctoral Research Associate
+  # email: karola.marky@glasgow.ac.uk  
+  # keywords: HCI, Usable Security, E-Voting
+  # description:  
+  # number_educ: 0
+  # education1: PhD from the Technical University of Darmstadt
+  # personal_website: https://www.gla.ac.uk/schools/computing/staff/karolamarky/
 
 
-- name: Tania Wallis
-  photo: wallis.jpeg
-  info: Research Assistant
-  email: Tania.Wallis@glasgow.ac.uk
-  keywords: Cyber-Physical Systems, Cybersecurity, Critical Infrastructures
-  description: Tania is researching the changing patterns of interaction with cyber-physical systems, such as increasing use of remote access to operational technology environments; and is investigating effective collaborations towards improving cybersecurity capability across critical infrastructure. 
-  personal_website: https://www.gla.ac.uk/schools/computing/staff/taniawallis/
-  number_educ: 0
-  education1: PhD student in Strathclyde University
+# - name: Tania Wallis
+  # photo: wallis.jpeg
+  # info: Research Assistant
+  # email: Tania.Wallis@glasgow.ac.uk
+  # keywords: Cyber-Physical Systems, Cybersecurity, Critical Infrastructures
+  # description: Tania is researching the changing patterns of interaction with cyber-physical systems, such as increasing use of remote access to operational technology environments; and is investigating effective collaborations towards improving cybersecurity capability across critical infrastructure. 
+  # personal_website: https://www.gla.ac.uk/schools/computing/staff/taniawallis/
+  # number_educ: 0
+  # education1: PhD student in Strathclyde University
   
-- name: Dr. Md Shafiqul Islam
-  photo: Shafiqul.jpg
-  email: MdShafiqul.Islam@glasgow.ac.uk
-  info: Post Doctoral Research Associate
-  keywords: computer vision, machine learning, EEG
-  description: Shafiqul is developing interfaces to prevent thermal images attacks using computer vision techniques. He completed his PhD in Computer Science and Engineering with research interests in signal and image processing, machine and deep learning. His PhD dissertation is about applying advanced machine learning techniques for diabetes management and prediction. He developed a machine learning framework that can predict whether a subject will develop diabetes within the next 7-8 years or not. During his MS studies in Electrical and Computer Engineering, he worked on artifact removal from EEG signals for ambulatory epileptic seizure prediction applications. Both of his works have been published in IEEE sensor and biomedical signal processing journals. 
-  personal_website:
-  number_educ: 0
-  education1: PhD in computer science from Hamad Bin Khalifa University
+# - name: Dr. Md Shafiqul Islam
+  # photo: Shafiqul.jpg
+  # email: MdShafiqul.Islam@glasgow.ac.uk
+  # info: Post Doctoral Research Associate
+  # keywords: computer vision, machine learning, EEG
+  # description: Shafiqul is developing interfaces to prevent thermal images attacks using computer vision techniques. He completed his PhD in Computer Science and Engineering with research interests in signal and image processing, machine and deep learning. His PhD dissertation is about applying advanced machine learning techniques for diabetes management and prediction. He developed a machine learning framework that can predict whether a subject will develop diabetes within the next 7-8 years or not. During his MS studies in Electrical and Computer Engineering, he worked on artifact removal from EEG signals for ambulatory epileptic seizure prediction applications. Both of his works have been published in IEEE sensor and biomedical signal processing journals. 
+  # personal_website:
+  # number_educ: 0
+  # education1: PhD in computer science from Hamad Bin Khalifa University
 
-- name: Pejman Saeghe
-  photo: Pejman_Saeghe.jpg
-  email: Pejman.Saeghe@glasgow.ac.uk
-  info: Post Doctoral Research Associate
-  keywords: virtual reality, augmented reality
-  description: Pejman Saeghe is an early career Research Associate in Human-Computer Interaction in the School of Computing Science at the University of Glasgow, Scotland, UK. His current research focuses on augmented, virtual, and extended reality (XR) privacy/security, and safety in social virtual environments. He has a background in immersive XR multimedia as part of his PhD at the University of Manchester in collaboration with the British Broadcasting Corporation Research and Development (BBC R&D). His publications can be found on his webpage below. 
-  personal_website: https://www.pejmansaeghe.com/
-  number_educ: 0
-  education1: 
+# - name: Pejman Saeghe
+  # photo: Pejman_Saeghe.jpg
+  # email: Pejman.Saeghe@glasgow.ac.uk
+  # info: Post Doctoral Research Associate
+  # keywords: virtual reality, augmented reality
+  # description: Pejman Saeghe is an early career Research Associate in Human-Computer Interaction in the School of Computing Science at the University of Glasgow, Scotland, UK. His current research focuses on augmented, virtual, and extended reality (XR) privacy/security, and safety in social virtual environments. He has a background in immersive XR multimedia as part of his PhD at the University of Manchester in collaboration with the British Broadcasting Corporation Research and Development (BBC R&D). His publications can be found on his webpage below. 
+  # personal_website: https://www.pejmansaeghe.com/
+  # number_educ: 0
+  # education1: 

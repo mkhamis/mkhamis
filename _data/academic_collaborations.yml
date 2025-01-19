@@ -1,25 +1,29 @@
-- name: University of Edinburgh, UK
-- name: Ludwig Maximilian University of Munich, Germany
-- name: Bundeswehr University Munich, Germany
-- name: Waseda University, Japan
-- name: German University in Cairo, Egypt
-- name: University of Palermo, Italy
-- name: Tampere University, Finland
-- name: Keio University, Japan
-- name: University of Oulu, Finland
-- name: University of Bayreuth, Germany
-- name: University of Stuttgart, Germany
-- name: University of Duisburg-Essen, Germany
-- name: Technical University of Berlin, Germany
-- name: Technical University of Darmstadt, Germany
-- name: Hamm-Lippstadt Univeristy of Applied Science, Germany
-- name: University of Primorska, Slovenia
-- name: Ben-Gurion University of the Negev, Israel
-- name: KU Leuven, Belgium
-- name: University of Vaasa, Finland
-- name: Qatar University, Qatar
-- name: University of Applied Sciences St. Gallen, Switzerland
 - name: Aarhus University, Denmark
-- name: Technical Univeristy of Vienna, Austria
+- name: Bundeswehr University Munich, Germany
 - name: École nationale de l'aviation civile (ENAC), France
+- name: German Research Centre for Artificial Intelligence, Germany
+- name: German University in Cairo, Egypt
+- name: Hamm-Lippstadt University of Applied Science, Germany
+- name: Keio University, Japan
+- name: KU Leuven, Belgium
 - name: Lancaster University, UK
+- name: Ludwig Maximilian University of Munich, Germany
+- name: Qatar University, Qatar
+- name: Tampere University, Finland
+- name: Technical University of Berlin, Germany
+- name: Technical University of Vienna, Austria
+- name: University of Applied Sciences St. Gallen, Switzerland
+- name: University of Bayreuth, Germany
+- name: University of Darmstadt, Germany
+- name: University of Duisburg-Essen, Germany
+- name: University of Edinburgh, UK
+- name: University of Manchester, UK
+- name: University of Michigan, USA
+- name: University of Oulu, Finland
+- name: University of Palermo, Italy
+- name: University of Primorska, Slovenia
+- name: University of Strathclyde, UK
+- name: University of Stuttgart, Germany
+- name: University of Vaasa, Finland
+- name: University of York, UK
+- name: Waseda University, Japan

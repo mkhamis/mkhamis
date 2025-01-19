@@ -1,51 +1,51 @@
-- name: Florian Mathis, M.Sc.
-  photo: mathis.jpg
-  info: PhD student, started Oct 2019
-  supervisors: Dr. Mohamed Khamis, Dr. Kami Vaniea
-  description: The objective of Florian's PhD is to research the suitability of Virtual Reality (VR) as a test bed for usability and security evaluations. 
-  keywords: HCI, Virtual Reality, Usable Security
-  email: florian.mathis@glasgow.ac.uk
-  personal_website: http://www.fmathis.com/ 
-  number_educ: 0
+# - name: Florian Mathis, M.Sc.
+  # photo: mathis.jpg
+  # info: PhD student, started Oct 2019
+  # supervisors: Dr. Mohamed Khamis, Dr. Kami Vaniea
+  # description: The objective of Florian's PhD is to research the suitability of Virtual Reality (VR) as a test bed for usability and security evaluations. 
+  # keywords: HCI, Virtual Reality, Usable Security
+  # email: florian.mathis@glasgow.ac.uk
+  # personal_website: http://www.fmathis.com/ 
+  # number_educ: 0
   
 
-- name: Yasmeen Abdrabou, M.Sc.
-  photo: abdrabou.jpg
-  info: PhD student, started Oct 2019
-  description: My research combines HCI and usable security. In particular, I focus on the use of eye gaze to enhance security mechanisms, including and not limited to gaze behavior in security-related situations and personal identification. 
-  keywords: HCI, Eye Tracking, Usable Security
-  email: yasmeen.essam@unibw.de
-  personal_website: https://www.yasmeenabdrabou.com/
-  number_educ: 0
-  education1: M.Sc. from German University in Cairo (GUC)
+# - name: Yasmeen Abdrabou, M.Sc.
+  # photo: abdrabou.jpg
+  # info: PhD student, started Oct 2019
+  # description: Omar's research combines HCI and usable security. In particular, I focus on the use of eye gaze to enhance security mechanisms, including and not limited to gaze behavior in security-related situations and personal identification. 
+  # keywords: HCI, Eye Tracking, Usable Security
+  # email: yasmeen.essam@unibw.de
+  # personal_website: https://www.yasmeenabdrabou.com/
+  # number_educ: 0
+  # education1: M.Sc. from German University in Cairo (GUC)
 
-- name: Norah Alotaibi, M.Sc.
-  photo: bio-photo.png
-  info: PhD Student, started Jan 2020
-  description: Thermal cameras can be utilized inconspicuously to expose heat traces left on input interfaces, posing a rising threat of a new front for side channel attacks. My research project investigates deep learning models that can improve the accuracy of thermal attacks and test them in real-world scenarios in an attempt to understand the impact of thermal attacks on user privacy and security. This project will also contribute to the development of mechanisms to counter thermal attacks.
-  email: n.alotaibi.3@research.gla.ac.uk
-  keywords: Thermal Imaging, Machine Learning, Security
-  number_educ: 0
-  education1: M.Sc. from University of Glasgow
+# - name: Norah Alotaibi, M.Sc.
+  # photo: bio-photo.png
+  # info: PhD Student, started Jan 2020
+  # description: Thermal cameras can be utilized inconspicuously to expose heat traces left on input interfaces, posing a rising threat of a new front for side channel attacks. My research project investigates deep learning models that can improve the accuracy of thermal attacks and test them in real-world scenarios in an attempt to understand the impact of thermal attacks on user privacy and security. This project will also contribute to the development of mechanisms to counter thermal attacks.
+  # email: n.alotaibi.3@research.gla.ac.uk
+  # keywords: Thermal Imaging, Machine Learning, Security
+  # number_educ: 0
+  # education1: M.Sc. from University of Glasgow
 
-- name: Habiba Farzand, M.Sc.
-  photo: farzand.jpg
-  info: PhD Student, started Jan 2021
-  email: 2538185F@student.gla.ac.uk
-  keywords: Shoulder Surfing, Usable Security, HCI
-  description: My research is inspired by the convergence of Security & Privacy and Humans. I specifically focus on understanding and mitigating shoulder surfing – a privacy invasion found all around us.
-  number_educ: 0
-  education1: M.Sc. from University of York
-  education2: B.Sc.
-  personal_website: https://www.gla.ac.uk/pgrs/habibafarzand/
+# - name: Habiba Farzand, M.Sc.
+  # photo: farzand.jpg
+  # info: PhD Student, started Jan 2021
+  # email: 2538185F@student.gla.ac.uk
+  # keywords: Shoulder Surfing, Usable Security, HCI
+  # description: My research is inspired by the convergence of Security & Privacy and Humans. I specifically focus on understanding and mitigating shoulder surfing – a privacy invasion found all around us.
+  # number_educ: 0
+  # education1: M.Sc. from University of York
+  # education2: B.Sc.
+  # personal_website: https://www.gla.ac.uk/pgrs/habibafarzand/
 
-- name: Robin Bretin 
-  photo: bretin.jpg
-  info: PhD Student in the SOCIAL CDT programme, started Oct 2020
-  keywords: Human-Drone Interaction, Social Drones, Human-Robot Interaction
-  description: "Robin's doctoral project focuses on the study of human behaviour around Social drones in immersive virtual reality (VR). He aims to address three questions Humans - How do they behave around drones ? Drones - How to make them social ? And Virtual Reality - What are the limits and capabilities of using VR as an approach for researching Human-Drone Interaction?"
-  email: 2605336B@student.gla.ac.uk
-  number_educ: 0
+# - name: Robin Bretin 
+  # photo: bretin.jpg
+  # info: PhD Student in the SOCIAL CDT programme, started Oct 2020
+  # keywords: Human-Drone Interaction, Social Drones, Human-Robot Interaction
+  # description: "Robin's doctoral project focuses on the study of human behaviour around Social drones in immersive virtual reality (VR). He aims to address three questions Humans - How do they behave around drones ? Drones - How to make them social ? And Virtual Reality - What are the limits and capabilities of using VR as an approach for researching Human-Drone Interaction?"
+  # email: 2605336B@student.gla.ac.uk
+  # number_educ: 0
 
 - name: Melvin Abraham.
   photo: abraham.png
@@ -91,7 +91,24 @@
   email: o.namnakani.1@research.gla.ac.uk
   number_educ: 0
   personal_website: 
- 
+  
+- name: Hongxiang Yang
+  photo: bio-photo.png
+  info: PhD Student, started Oct 2024
+  keywords: Virtual Reality, Online Safety, HCI
+  description: Hongxiang's PhD studies user behavior in social virtual reality, and particularly how users leverage avatars to convey certain aspects of their identities. 
+  email: 2956717E@student.gla.ac.uk
+  number_educ: 0
+  personal_website:  
+
+- name: Yasmine Elfares
+  photo: bio-photo.png
+  info: PhD Student, started Jan 2025
+  keywords: Eye Tracking, Gaze Interaction, Software Engineering
+  description: Yasmine's PhD investigates the use of eye tracking in the context of software engineering, both for analyzing the behavior of software developers and also enable novel interaction techniques that leverage eye gaze. 
+  email: 2956717E@student.gla.ac.uk
+  number_educ: 0
+  personal_website: 
 
 - name: "This could be you !"
   photo: you-bio-photo.jpg

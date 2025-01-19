@@ -1,0 +1,306 @@
+I"g|<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list see <a href="#full-list">below</a> or go to <a href="https://scholar.google.com/citations?user=0OupgU0AAAAJ">Google Scholar</a>, <a href="https://orcid.org/0000-0001-7051-5200">OrcID</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Fast and Secure Authentication in Virtual Reality using Coordinated 3D Manipulation and Pointing</pubtit>
+      <p><img src="http://localhost:4000/mkhamis/images/pubpic/mathis2020tochi.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We present RubikAuth, an authentication scheme for VR where users authenticate quickly and securely by selecting digits from a virtual 3D cube that leverages coordinated 3D manipulation and pointing. We report on results from three studies comparing how pointing using eye gaze, head pose, and controller tapping impact RubikAuth’s usability, memorability, and observation resistance under three realistic threat models. We found that entering a four-symbol RubikAuth password is fast and highly resilient to observations. Our work underlines the importance of considering novel but realistic threat models beyond standard one-time attacks to fully assess the observation-resistance of authentication schemes. We outline five learned lessons for designing and evaluating authentication schemes for immersive virtual reality. </p>
+      <p><em>Florian Mathis, John Williamson, Kami Vaniea, Mohamed Khamis.</em></p>
+      <p><strong><a href="http://www.mkhamis.com/data/papers/mathis2020tochi.pdf">Transactions on Computer-Human Interaction (TOCHI), 2021</a></strong></p>
+
+      <p class="text-danger"><strong> </strong></p>
+
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>The Role of Eye Gaze in Security and Privacy Applications: Survey and Future HCI Research Directions</pubtit>
+      <p><img src="http://localhost:4000/mkhamis/images/pubpic/katsini2020chi.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We present a holistic view on gaze-based security applications. In particular, we canvassed the literature and classify the utility of gaze in security applications into a) authentication, b) privacy protection, and c) gaze monitoring during security critical tasks. This allows us to chart several research directions, most importantly 1) conducting field studies of implicit and explicit gaze-based authentication due to recent advances in eye tracking, 2) research on gaze-based privacy protection and gaze monitoring in security critical tasks which are under-investigated yet very promising areas, and 3) understanding the privacy implications of pervasive eye tracking. We discuss the most promising opportunities and most pressing challenges of eye tracking for security that will shape research in gaze-based security applications for the next decade.</p>
+      <p><em>Christina Katsini, Yasmeen Abdrabou, George Raptis, Mohamed Khamis, Florian Alt.</em></p>
+      <p><strong><a href="http://www.mkhamis.com/data/papers/katsini2020chi.pdf">In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020) - 24.31% acceptance rate.</a></strong></p>
+
+      <p class="text-danger"><strong> Honorable Mention Award (top 5% of submissions)</strong></p>
+
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey and Lessons Learned</pubtit>
+      <p><img src="http://localhost:4000/mkhamis/images/pubpic/khamis2018mobilehci.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p><em>Mohamed Khamis, Florian Alt, Andreas Bulling.</em></p>
+      <p><strong><a href="http://www.mkhamis.com/data/papers/khamis2018mobilehci.pdf">Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI 2018)</a></strong></p>
+
+      <p class="text-danger"><strong> Honorable Mention Award (top 5% of submissions)</strong></p>
+
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication</pubtit>
+      <p><img src="http://localhost:4000/mkhamis/images/pubpic/abdelrahman2017chi.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>As thermal cameras become ubiquitous and affordable, we foresee a new form of threat to user privacy on mobile devices. Thermal cameras allow performing thermal attacks, where heat traces, resulting from authentication, can be used to reconstruct passwords. In this work we investigate in details the viability of exploiting thermal imaging to infer PINs and patterns on mobile devices. We present a study (N=18) where we evaluated how properties of PINs and patterns influence their thermal attacks resistance. We found that thermal attacks are indeed viable on mobile devices; overlapping patterns significantly decrease successful thermal attack rate from 100% to 16.67%, while PINs remain vulnerable (&gt;72% success rate) even with duplicate digits</p>
+      <p><em>Yomna Abdelrahman<em>, Mohamed Khamis</em>, Stefan Schneegass, Florian Alt.</em></p>
+      <p><strong><a href="http://www.medien.ifi.lmu.de/pubdb/publications/pub/abdelrahman2017chi/abdelrahman2017chi.pdf">Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems</a></strong></p>
+
+      <p class="text-danger"><strong> Honorable Mention Award (top 5% of submissions)</strong></p>
+
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="journal-articles">Journal articles</h2>
+
+<p>Fast and Secure Authentication in Virtual Reality using Coordinated 3D Manipulation and Pointing <br />
+<em>Florian Mathis, John Williamson, Kami Vaniea, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/mathis2020tochi.pdf">Transactions on Computer-Human Interaction (TOCHI), 2021</a></p>
+
+<p>GazeWheels: Recommendations for using Wheel Widgets for Feedback during Dwell-time Gaze Input <br />
+<em>Misahael Fernandez, Florian Mathis, Mohamed Khamis. </em><br /><a href="">To appear in the Journal of Information Technology, 11 pages.</a></p>
+
+<p>Interorganizational Cooperation in Supply Chain Cybersecurity: A Cross-Industry Study of the Effectiveness of the UK Implementation of the NIS Directive. <br />
+<em>Tania Wallis, Chris Johnson, Mohamed Khamis. </em><br /><a href="">Information &amp; Security: An International Journal. Vol. 48., 2021.</a></p>
+
+<p>Special issue on pervasive displays. <br />
+<em>Jessica Cauchard, Nigel Davies, Vito Gentile, Salvatore Sorce, Mohamed Khamis. </em><br /><a href="">Personal and Ubiquitous Computing, 2021.</a></p>
+
+<p>Predicting Mid-Air Gestural Interaction with Public Displays based on Audience Behaviour <br />
+<em>Vito Gentile, Mohamed Khamis, Fabrizio Milazzo, Salvatore Sorce, Alessio Malizia, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/gentile2020ijhcs.pdf">International Journal of Human-Computer Studies, Volume 144, 2020.</a></p>
+
+<p>CueAuth: Comparing Touch, Mid-Air Gestures, and Gaze for Cue-based Authentication on Situated Displays <br />
+<em>Mohamed Khamis, Ludwig Trotter, Ville Mäkelä, Emanuel von Zezschwitz, Jens Le, Andreas Bulling, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2018imwut.pdf">Proceedings of ACM on Interactive Mobile Wearable Ubiquitous Technologies (IMWUT) 2, 4, December 2018, 21 pages.</a></p>
+
+<p>EyeSpot: Leveraging Gaze to Protect Private Text Content on Mobile Devices from Shoulder Surfing <br />
+<em>Mohamed Khamis, Malin Eiband, Martin Zürn, Heinrich Hussmann. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2018mti.pdf">Journal of Multimodal Technologies and Interaction 2018, 2(3), 45</a></p>
+
+<p>EyePACT: Eye-Based Parallax Correction on Touch-Enabled Interactive Displays <br />
+<em>Mohamed Khamis, Daniel Buschek, Tobias Thieron, Florian Alt, Andreas Bulling. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2017imwut.pdf">Proceedings of ACM on Interactive Mobile Wearable Ubiquitous Technologies (IMWUT) 1, 4, December 2017, 18 pages.</a></p>
+
+<p>Introduction and establishment of virtual training in the factory of the future. <br />
+<em>Dominic Gorecky, Mohamed Khamis, Katharina Mura. </em><br /><a href="http://www.mkhamis.com/data/papers/gorecky2015.pdf">International Journal of Computer Integrated Manufacturing, pp. 1-9, 2015.</a></p>
+
+<h2 id="book-chapters">Book Chapters</h2>
+
+<p>Privacy and Security in Augmentation Technologies <br />
+<em>Mohamed Khamis, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/KhamisAlt2020PriSecAugTech.pdf">In “Technology-Augmented Perception and Cognition” (chapter 8). Springer Nature Switzerland AG.</a></p>
+
+<p>Touchscreens as the de facto interface to complex systems <br />
+<em>Ashley Colley, Niels Henze, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/colley2019Touchscreens.pdf">In “Managing Complexity and Creating Innovation through Design” (chapter 7). Routledge Taylor &amp; Francis Group.</a></p>
+
+<h2 id="magazine-articles">Magazine articles</h2>
+
+<p>Toward a roadmap for human-drone interaction <br />
+<em>Jessica Cauchard, Mohamed Khamis, Jérémie Garcia, Matjaž Kljun, Anke M. Brock. </em><br /><a href="http://www.mkhamis.com/data/papers/RoadmapHDI.pdf">In ACM Interactions 28, 2 (March 2021), 77-81.</a></p>
+
+<p>Special Topic: HCI in The Arab World - Introduction <br />
+<em>Shaimaa Lazem, Ebtisam Alabdulqader, Mohamed Khamis. </em><br /><a href="http://interactions.acm.org/archive/section/may-june-2019/special-topic-hci-in-the-arab-world">In ACM Interactions 26, 3 (April 2019), 41-43.</a></p>
+
+<p>PerDis 2017 <br />
+<em>Mohamed Khamis, J. Henderson, Guiying Du. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2017pervasive.pdf">IEEE Pervasive Computing 16(4), 86-89 (2017).</a></p>
+
+<h2 id="conference-papers">Conference papers</h2>
+
+<p>Observing Virtual Avatars: The Impact of Avatars’ Fidelity on Identifying Interactions <br />
+<em>Florian Mathis, Kami Vaniea, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/mathis2021mindtrek.pdf">In Proceedings of the 24th International Conference on Academic Mindtrek (Mindtrek 2021).</a></p>
+
+<p>GazeMeter: Exploring the Usage of Gaze Behaviour to enhance Password Assessments <br />
+<em>Yasmeen Abdrabou, Ahmed Shams, Mohamed Omar Mantawy, Anam Ahmad Khan, Mohamed Khamis, Florian Alt, Yomna Abdelrahman. </em><br /><a href="http://www.mkhamis.com/data/papers/abdrabou2021etra.pdf">In Proceedings of the ACM International Symposium on Eye Tracking Research &amp; Applications (ETRA 2021).</a></p>
+
+<p>RepliCueAuth: Validating the Use of a lab-based Virtual Reality Setup for Evaluating Authentication Systems <br />
+<em>Florian Mathis, Kami Vaniea, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/mathis2021chi.pdf">In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021) - 26.3% acceptance rate.</a></p>
+
+<p>Are my Apps Peeking? Comparing Nudging Mechanisms to Raise Awareness of Access to Mobile Front-facing Camera <br />
+<em>Mariam Hassib, Hatem Abdelmoteleb, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/hassib2020mum.pdf">In Proceedings of the 19th International Conference on Mobile and Ubiquitous Multimedia (MUM 2020).</a></p>
+
+<p>The Role of Eye Gaze in Security and Privacy Applications: Survey and Future HCI Research Directions <br />
+<em>Christina Katsini, Yasmeen Abdrabou, George Raptis, Mohamed Khamis, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/katsini2020chi.pdf">In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020) - 24.31% acceptance rate.</a></p>
+
+<p>Virtual Field Studies: Conducting Studies on Public Displays in Virtual Reality <br />
+<em>Ville Mäkelä, Sheikh Radiah Rahim Rivu, Saleh Alsherif, Mohamed Khamis, Chong Xiao, Lisa Marianne Borchert, Albrecht Schmidt, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/maekelae2020chi.pdf">In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020) - 24.31% acceptance rate.</a></p>
+
+<p>GazeWheels: Comparing Dwell-time Feedback and Methods for Gaze Input <br />
+<em>Misahael Fernandez, Florian Mathis, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/fernandez2020nordichi.pdf">In Proceedings of the 11th Nordic Conference on Human-Computer Interaction (NordiCHI 2020). Association for Computing Machinery - 14.7% acceptance rate.</a></p>
+
+<p>GazeRoomLock: Using Gaze and Head-pose to Improve the Usability and Observation Resistance of 3D Passwords in Virtual Reality <br />
+<em>Ceenu George, Daniel Buschek, Andrea Ngao, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/george2020avr.pdf">In Proceedings of the 7th International Conference on Augmented Reality, Virtual Reality, and Computer Graphics (AVR 2020).</a></p>
+
+<p>GazeLockPatterns: Comparing Authentication Using Gaze and Touch for Entering Lock Patterns <br />
+<em>Yasmeen Abdrabou, Ken Pfeuffer, Mohamed Khamis, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/abdrabou2020avi.pdf">In Proceedings of the ACM International Symposium on Eye Tracking Research &amp; Applications (ETRA 2020)</a></p>
+
+<p>Are Thermal Attacks Ubiquitous? When Non-Expert Attackers Use Off the shelf Thermal Cameras <br />
+<em>Yasmeen Abdrabou, Yomna Abdelrahman, Ahmed Ayman, Amr Elmougy, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/abdrabou2020avi.pdf">In Proceedings of the International Conference on Advanced Visual Interfaces (AVI 2020).</a></p>
+
+<p>Don’t Use Fingerprint, it’s Raining! How People Use and Perceive Context-Aware Selection of Mobile Authentication <br />
+<em>Sarah Prange, Lukas Mecke, Alice Nguyen, Mohamed Khamis, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/prange2020avi.pdf">In Proceedings of the International Conference on Advanced Visual Interfaces (AVI 2020).</a></p>
+
+<p>Bystander Interruption of VR Users <br />
+<em>Joseph O’Hagan, Julie Williamson, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/ohagan2020perdis.pdf">In Proceedings of the 9th International Symposium on Pervasive Displays (PerDis 2020).</a></p>
+
+<p>Augmenting TV Viewing using Acoustically Transparent Auditory Headsets <br />
+<em>Mark McGill, Florian Mathis, Mohamed Khamis, Julie Williamson. </em><br /><a href="http://www.mkhamis.com/data/papers/mcgill2020imx.pdf">In Proceedings of the ACM International Conference on Interactive Media Experiences (IMX 2020)</a></p>
+
+<p>ElectroCutscenes: Realistic Haptic Feedback in Cutscenes of Virtual Reality Games Using Electric Muscle Stimulation <br />
+<em>Mohamed Khamis, Nora Schuster, Ceenu George, Max Pfeiffer. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2019vrst.pdf">In Proceedings of the 25th ACM Symposium on Virtual Reality Software and Technology (VRST 2019) - 21.4% acceptance rate.</a></p>
+
+<p>DialPlates: Enabling Pursuits-based User Interfaces with Large Target Numbers <br />
+<em>Heiko Drewes, Mohamed Khamis, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/drewes2019mum.pdf">In Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia (MUM 2019).</a></p>
+
+<p>Securing Personal Items in Public Space: Stories of Attacks and Threats <br />
+<em>Sarah Prange, Lukas Mecke, Michael Stadler, Maximilian Balluff, Mohamed Khamis, Florian Alt </em><br /><a href="http://www.mkhamis.com/data/papers/prange2019mum.pdf">In Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia (MUM 2019).</a></p>
+
+<p>What about my Privacy, Habibi? Understanding Privacy Concerns and Perceptions of Users from Different Socioeconomic Groups in the Arab World <br />
+<em>Mennatallah Saleh, Mohamed Khamis, Christian Sturm. </em><br /><a href="http://www.mkhamis.com/data/papers/saleh2019interact.pdf">In Proceedings of the 17th IFIP TC13 International Conference on Human-Computer Interaction (INTERACT 2019).</a></p>
+
+<p>Passquerade: Improving Error Correction of Text Passwords on Mobile Devices by using Graphic Filters for Password Masking <br />
+<em>Mohamed Khamis, Tobias Seitz, Leonhard Mertl, Alice Nguyen, Mario Schneller, Zhe Li. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2019chi.pdf">In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI 2019) - 23.8% acceptance rate.</a></p>
+
+<p>Just Gaze and Wave: Exploring the Use of Gaze and Gestures for Shoulder-surfing Resilient Authentication <br />
+<em>Yasmeen Abdrabou, Mohamed Khamis, Rana Mohamed Eisa, Sherif Ismail, Amr Elmougy. </em><br /><a href="http://www.mkhamis.com/data/papers/abdrabou2019etra1.pdf">In Proceedings of the ACM International Symposium on Eye Tracking Research &amp; Applications (ETRA 2019).</a></p>
+
+<p>Calibration-free Text Entry using Smooth Pursuit Eye Movements <br />
+<em>Yasmeen Abdrabou, Mariam Mostafa, Mohamed Khamis, Amr Elmougy. </em><br /><a href="http://www.mkhamis.com/data/papers/abdrabou2019etra2.pdf">In Proceedings of the ACM International Symposium on Eye Tracking Research &amp; Applications (ETRA 2019).</a></p>
+
+<p>Investigating the Third Dimension for Authentication in Immersive Virtual Reality and in the Real World <br />
+<em>Ceenu George, Daniel Buschek, Mohamed Khamis, Heinrich Hussmann. </em><br /><a href="http://www.mkhamis.com/data/papers/george2019ieeevr.pdf">In Proceedings of the 26th IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2019).</a></p>
+
+<p>Investigating the User Experience of Smartphone Authentication Schemes-The Role of the Mobile Context <br />
+<em>Matthias Baldauf, Sebastian Steiner, Mohamed Khamis, Sarah-Kristin Thiel. </em><br /><a href="http://www.mkhamis.com/data/papers/baldauf2019hicss.pdf">Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS 2019)</a></p>
+
+<p>Orochi: Investigating Requirements and Expectations for Multipurpose Daily Used Supernumerary Robotic Limbs <br />
+<em>Mohammed Al-Sada, Thomas Höglund, Mohamed Khamis, Jaryd Urbani and Tatsuo Nakajima. </em><br /><a href="http://www.mkhamis.com/data/papers/alsada2019ah.pdf">Proceedings of the 10th International Conference on Augmented Human (AH 2019)</a></p>
+
+<p>GazeRecall: Using Gaze Direction to Increase Recall of Details in 360° Videos <br />
+<em>Sylvia Rothe, Felix Althammer, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/rothe2018mum.pdf">Proceedings of the 17th International Conference on Mobile and Ubiquitous Multimedia (MUM 2018)</a></p>
+
+<p>Smooth Pursuit Target Speeds and Trajectories <br />
+<em>Heiko Drewes, Mohamed Khamis, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/drewes2018mum.pdf">Proceedings of the 17th International Conference on Mobile and Ubiquitous Multimedia (MUM 2018)</a></p>
+
+<p>The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey and Lessons Learned <br />
+<em>Mohamed Khamis, Florian Alt, Andreas Bulling. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2018mobilehci.pdf">Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI 2018)</a></p>
+
+<p>Hidden Pursuits: Evaluating Gaze-selection via Pursuits when the Stimulus Trajectory is Partially Hidden <br />
+<em>Thomas Mattusch, Mahsa Mirzamohammad, Mohamed Khamis, Andreas Bulling, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/mattusch2018etra.pdf">Proceedings of the ACM International Symposium on Eye Tracking Research &amp; Applications (ETRA 2018)</a></p>
+
+<p>Public HMDs: Modeling and Understanding User Behavior around Public Head-Mounted Displays <br />
+<em>Christian Mai, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/mai2018perdis.pdf">In Proceedings of the 8th International Symposium on Pervasive Displays (PerDis 2018)</a></p>
+
+<p>VRPursuits: Interaction in Virtual Reality using Smooth Pursuit Eye Movements <br />
+<em>Mohamed Khamis, Carl Oechsner, Florian Alt, Andreas Bulling. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2018avi.pdf">Proceedings of the International Conference on Advanced Visual Interfaces (AVI 2018)</a></p>
+
+<p>Which one is me? Identifying Oneself on Public Displays <br />
+<em>Mohamed Khamis, Christian Becker, Andreas Bulling, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2018chi1.pdf">Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018) - 25.7% acceptance rate</a></p>
+
+<p>Understanding Face and Eye Visibility in Front-Facing Cameras of Smartphones used in the Wild <br />
+<em>Mohamed Khamis, Anita Baier, Niels Henze, Florian Alt, Andreas Bulling. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2018chi2.pdf">Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018) - 25.7% acceptance rate</a></p>
+
+<p>Pocket Transfers: Interaction Techniques for Transferring Content from Situated Displays to Mobile Devices <br />
+<em>Ville Mäkelä, Mohamed Khamis, Lukas Mecke, Jobin James, Markku Turunen, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/maekelae2018chi.pdf">Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018) - 25.7% acceptance rate</a></p>
+
+<p>They are all after you: Investigating the Viability of a Threat Model that involves Multiple Shoulder Surfers <br />
+<em>Mohamed Khamis, Linda Bandelow, Stina Schick, Dario Casadevall, Andreas Bulling, Florian Alt </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2017mum.pdf">Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia (MUM 2017)</a></p>
+
+<p>BrainAtWork: Logging Cognitive Engagement and Tasks in the Workplace using Electroencephalography <br />
+<em>Mariam Hassib, Mohamed Khamis, Susanne Friedl, Stefan Schneegass and Florian Alt </em><br /><a href="http://www.mkhamis.com/data/papers/hassib2017mum.pdf">Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia (MUM 2017)</a></p>
+
+<p>GazeTouchPIN: Protecting Sensitive Data on Mobile Devices using Secure Multimodal Authentication <br />
+<em>Mohamed Khamis, Mariam Hassib, Emanuel von Zezschwitz, Andreas Bulling, Florian Alt </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2017icmi.pdf">Proceedings of the 19th ACM International Conference on Multimodal Interaction (ICMI 2017)</a></p>
+
+<p>EyeScout: Active Eye Tracking for Position and Movement Independent Gaze Interaction with Large Public Displays <br />
+<em>Mohamed Khamis, Axel Hoesl, Alexander Klimczak, Martin Reiss, Florian Alt, Andreas Bulling </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2017uist.pdf">Proceedings of the 30th Annual ACM Symposium on User Interface Software &amp; Technology (UIST 2017) - 22.5% acceptance rate</a></p>
+
+<p>GTmoPass: Two-factor Authentication on Public Displays Using GazeTouch passwords and Personal Mobile Devices <br />
+<em>Mohamed Khamis, Regina Hasholzner, Andreas Bulling, Florian Alt </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2017perdis.pdf">Proceedings of the 6th International Symposium on Pervasive Displays (PerDis 2017)</a></p>
+
+<p>They are looking at me! Understanding how Audience Presence Impacts on Public Display Users <br />
+<em>Vito Gentile, Mohamed Khamis, Salvatore Sorce, Florian Alt </em><br /><a href="http://www.mkhamis.com/data/papers/gentile2017perdis.pdf">Proceedings of the 6th International Symposium on Pervasive Displays (PerDis 2017)</a></p>
+
+<p>Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication <br />
+<em>Yomna Abdelrahman<em>, Mohamed Khamis</em>, Stefan Schneegass, Florian Alt. </em><br /><a href="http://www.medien.ifi.lmu.de/pubdb/publications/pub/abdelrahman2017chi/abdelrahman2017chi.pdf">Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems</a></p>
+
+<p>Understanding Shoulder Surfing in the Wild: Stories from Users and Observers <br />
+<em>Malin Eiband, Mohamed Khamis, Emanuel von Zezschwitz, Heinrich Hussmann, Florian Alt. </em><br /><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507">Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems</a></p>
+
+<p>Seamless and Secure VR: Adapting and Evaluating Established Authentication Systems for Virtual Reality <br />
+<em>Ceenu George, Mohamed Khamis, Emanuel von Zezschwitz, Marinus Burger, Henri Schmidt, Florian Alt, Heinrich Hussmann. </em><br /><a href="http://www.mkhamis.com/data/papers/george2017usec.pdf">In Proceedings of the USEC Conference in conjunction with NDSS 2017.</a></p>
+
+<p>EyeVote in the Wild: Do Users bother Correcting System Errors on Public Displays? <br />
+<em>Mohamed Khamis, Ludwig Trotter, Markus Tessmann, Christina Dannhart, Andreas Bulling, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2016mum.pdf">In Proceedings of the 15th International Conference on Mobile and Ubiquitous Multimedia (MUM 2016)</a></p>
+
+<p>TextPursuits: Using Text for Pursuits-Based Interaction and Calibration on Public Displays. <br />
+<em>Mohamed Khamis, Ozan Saltuk, Alina Hang, Katharina Stolz, Andreas Bulling, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2016ubicomp1.pdf">In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016)</a></p>
+
+<p>AirDisplay: Experimenting with Air Flow as a Communication Medium. <br />
+<em>Omar Mowafi, Mohamed Khamis, Wael Abouelsaadat. </em><br /><a href="http://www.mkhamis.com/data/papers/airdisplay2015.pdf">Proceedings of the 15th IFIP TC13 International Conference on Human-Computer Interaction (INTERACT 2015), pp. 316-323, 2015.</a></p>
+
+<p>Collecting Links between Entities Ranked by Human Association Strengths. <br />
+<em>Jörn Hees, Mohamed Khamis, Ralf Biedert, Slim Abdennadher, Andreas Dengel. </em><br /><a href="http://www.mkhamis.com/data/papers/ktg2013.pdf">Proceedings of the 10th Extended Semantic Web Conference (ESWC 2013), 517-531.</a></p>
+
+<h2 id="other-publications-peer-reviewed-workshop-papers-and-proposals-and-juried-late-breaking-work-papers">Other publications (peer-reviewed workshop papers and proposals, and juried late-breaking-work papers).</h2>
+
+<p>Think Harder! Investigating the Effect of Password Strength on Cognitive Load during Password Creation <br />
+<em>Yasmeen Abdrabou, Yomna Abdelrahman, Mohamed Khamis, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/abdrabou2021chi.pdf">In Proceedings of the 2021 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI 2021).</a></p>
+
+<p>Remote XR Studies: The Golden Future of HCI Research? <br />
+<em>Florian Mathis, Xuesong Zhang, Joseph O’Hagan, Daniel Medeiros, Pejman Saeghe, Mark McGill, Stephen Brewster, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/mathis2021xr.pdf">In CHI 2021 Workshop on XR Remote Research</a></p>
+
+<p>iHDI: First International Workshop on Human-Drone Interaction <br />
+<em>Anke M. Brock, Jessica Cauchard, Markus Funk, Jérémie Garcia, Mohamed Khamis, and Matjaž Kljun. </em><br /><a href="http://www.mkhamis.com/data/papers/brock2019chi.pdf">Proceedings of the 2019 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI 2019)</a></p>
+
+<p>Privacy, Security and Safety Concerns of using HMDs in Public and Semi-Public Spaces <br />
+<em>Florian Mathis, Mohamed Khamis. </em><br /><a href="http://www.mkhamis.com/data/papers/mathis2019shmd.pdf">CHI 2019 Workshop on Challenges Using Head-Mounted Displays in Shared and Social Spaces</a></p>
+
+<p>`Outsourcing’ Security: Supporting People to Support Older Adults <br />
+<em>Lukas Mecke, Sarah Prange, Daniel Buschek, Mohamed Khamis, Mariam Hassib, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/mecke2018mobilehciadj.pdf">Proceedings of the Mobile HCI 2018 Workshop on Mobile Privacy and Security for an Aging Population, 2018.</a></p>
+
+<p>GazeDrone: Mobile Eye-Based Interaction in Public Space Without Augmenting the User <br />
+<em>Mohamed Khamis, Anna Kienle, Florian Alt, Andreas Bulling. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2018dronet.pdf">Proceedings of the 4th ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet 2018)</a></p>
+
+<p>Challenges and Opportunities of Supernumerary Robotic Limbs  <br />
+<em>Mohammed Al Sada, Mohamed Khamis, Akira Kato, Shigeki Sugano, Tatsuo Nakajima, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/alsada2017amplify.pdf">In Proceedings of the CHI 2017 Workshop on Amplification and Augmentation of Human Perception (Amplify 2017)</a></p>
+
+<p>HelpMe: Assisting Older Adults in Performing Tasks on Mobile Devices <br />
+<em>Oliver Duerr, Mohamed Khamis, Daniel Buschek, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/duerr2017olderadults.pdf">In Proceedings of the CHI 2017 Workshop on Designing Mobile Interactions for the Ageing Populations.</a></p>
+
+<p>Challenges and Design Space of Gaze-enabled Public Displays. <br />
+<em>Mohamed Khamis, Florian Alt, Andreas Bulling. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2016ubicomp2.pdf">In Adjunct Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016)</a></p>
+
+<p>A Field Study on Spontaneous Gaze-based Interaction with a Public Display using Pursuits. <br />
+<em>Mohamed Khamis, Florian Alt, Andreas Bulling. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2015petmei.pdf">Adjunct Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2015), pp. 865-874, 2015.</a></p>
+
+<p>Tackling Challenges of Interactive Public Displays using Gaze. <br />
+<em>Mohamed Khamis, Andreas Bulling, Florian Alt. </em><br /><a href="http://www.mkhamis.com/data/papers/khamis2015pdapps.pdf">Adjunct Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2015), pp. 763-766, 2015.</a></p>
+
+<p>AreCAPTCHA: Outsourcing Arabic Text Digitization to Native Speakers. <br />
+<em>Menna Bakry, Mohamed Khamis, Slim Abdennadher. </em><br /><a href="http://www.mkhamis.com/data/papers/arecaptcha2014.pdf">Proceedings of the 11th IAPR International Workshop on Document Analysis Systems (DAS 2014), pp.304-308, 2014.</a></p>
+
+<p>Collecting Arabic Dialect Variations using Games With A Purpose: A Case Study Targeting the Egyptian Dialect. <br />
+<em>Sara Nasser, Nada Sharaf, Mohamed Khamis, Slim Abdennadher, Caroline Sabty. </em><br /><a href="http://www.mkhamis.com/data/papers/gamnlp2013.pdf">Proceedings of the 2nd Workshop on Games and NLP (GAMNLP 2013)</a></p>
+
+<p>Prolog Server Faces - A Declarative Framework for Dynamic Web Pages. <br />
+<em>Christian Schneiker, Mohamed Khamis, Dietmar Seipel. </em><br /><a href="http://www.mkhamis.com/data/papers/psf2010.pdf">Proceedings of the 24th Workshop on Constraint Logic Programming (WLP 2010), 109-118</a></p>
+
+:ET
