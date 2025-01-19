@@ -68,3 +68,7 @@ kramdown:
   # details_link:   Details
 
   # query: "@*"
+collections:
+  pages:
+    output: true
+    permalink: /:path/
