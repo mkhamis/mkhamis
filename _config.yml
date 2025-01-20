@@ -72,3 +72,4 @@ collections:
   pages:
     output: true
     permalink: /:path/
+    
