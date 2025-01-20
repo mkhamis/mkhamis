@@ -1,12 +1,11 @@
-
 <div class="well">
-<h4>News</h4>
-
-{% for article in site.data.news limit:9 %}
-{{ article.date }}
-<p>{{ article.headline }}</p>
-{% endfor %}
-
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
-
+  <h4>Follow us on Twitter</h4>
+  <div id="tweetid">
+    <div class="jekyll-twitter-plugin" align="center">
+      <a class="twitter-timeline" data-width="500" data-tweet-limit="5" href="https://twitter.com/TheSIRIUSLab?ref_src=twsrc%5Etfw">
+        Tweets by TheSIRIUSLab
+      </a>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
+  </div>
+</div>
