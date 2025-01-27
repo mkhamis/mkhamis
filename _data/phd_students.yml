@@ -57,12 +57,12 @@
   number_educ: 0
   
 
-- name: Joseph O'Hagan
-  photo: bio-photo.png
-  keywords: Virtual Reality, Augmented Reality, Mixed Reality, 
-  info: PhD student (secondary supervisor), started Oct 2018.
-  email: j.ohagan.1@research.gla.ac.uk
-  number_educ: 0
+# - name: Joseph O'Hagan
+  # photo: bio-photo.png
+  # keywords: Virtual Reality, Augmented Reality, Mixed Reality, 
+  # info: PhD student (secondary supervisor), started Oct 2018.
+  # email: j.ohagan.1@research.gla.ac.uk
+  # number_educ: 0
   
 - name: Cristina Fiani
   photo: fiani.jpeg
