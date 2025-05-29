@@ -268,7 +268,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+{% comment %}
 ## Interns
 {% assign number_printed = 0 %}
 {% for member in site.data.interns %}
@@ -323,7 +323,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-{% comment %}
 ## Alumni
 
 {% assign number_printed = 0 %}
