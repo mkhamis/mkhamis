@@ -53,7 +53,7 @@
   description: Melvin's research is based on identifying and communicating security & privacy risks to a user within mixed reality. Looking specifically at how mixed reality can be leveraged, to communicate effectively when a users data is being collected or if a security risk is present.
   keywords: Privacy, Virtual Reality, Usable Security
   email: m.abraham.1@research.gla.ac.uk
-  personal_website: 
+  personal_website: https://scholar.google.co.uk/citations?user=nNkL9iAAAAAJ&hl=en
   number_educ: 0
   
 
@@ -71,7 +71,7 @@
   description: "Cristina's research focuses on children and adolescents' privacy and emotional safety with virtual reality (VR). One of the aims is to create a framework for parents to protect them and moderate the social VR experience without neglecting children and adolescents' expression and self-development."
   email: c.fiani.1@research.gla.ac.uk
   number_educ: 0
-  personal_website: https://www.linkedin.com/in/cristina-fiani/
+  personal_website: https://www.cristinafiani.com/
  
   
 - name: Noora AlSakar
@@ -90,7 +90,7 @@
   description: My research focuses on the usability of the current gaze interaction techniques for the mobile contexts and scenarios. Particularly, I’m interested in exploring the concept of UI design to enhance eye gaze interaction on mobile devices.
   email: o.namnakani.1@research.gla.ac.uk
   number_educ: 0
-  personal_website: 
+  personal_website: https://scholar.google.com/citations?user=gCqC99sAAAAJ&hl=ja
   
 - name: Hongxiang Yang
   photo: bio-photo.png
@@ -99,7 +99,7 @@
   description: Hongxiang's PhD studies user behavior in social virtual reality, and particularly how users leverage avatars to convey certain aspects of their identities. 
   email: 2956717E@student.gla.ac.uk
   number_educ: 0
-  personal_website:  
+  personal_website:  https://www.gla.ac.uk/pgrs/hongxiangyang/
 
 - name: Yasmine Elfares
   photo: bio-photo.png
@@ -108,12 +108,13 @@
   description: Yasmine's PhD investigates the use of eye tracking in the context of software engineering, both for analyzing the behavior of software developers and also enable novel interaction techniques that leverage eye gaze. 
   email: 2956717E@student.gla.ac.uk
   number_educ: 0
-  personal_website: 
+  personal_website: https://uk.linkedin.com/in/yasmine-elfares
 
 - name: "This could be you !"
   photo: you-bio-photo.jpg
   info: See <a href="/join-our-lab">Join Our Lab</a> for more info.
-  email: mohamed.khamis@glasgow
+  email: your.name@glasgow.ac.uk
+  personal_website: https://mkhamis.github.io/join-our-lab
   number_educ: 0
   education1:
   education2:
