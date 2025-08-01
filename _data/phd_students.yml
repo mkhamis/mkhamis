@@ -110,6 +110,15 @@
   number_educ: 0
   personal_website: https://uk.linkedin.com/in/yasmine-elfares
 
+- name: Ohud Almalki
+  photo: bio-photo.png
+  info: PhD Student, started Jan 2025
+  keywords: Eye Tracking, Gaze Interaction, Software Engineering
+  description: Yasmine's PhD investigates the use of eye tracking in the context of software engineering, both for analyzing the behavior of software developers and also enable novel interaction techniques that leverage eye gaze. 
+  email: 2598787A@student.gla.ac.uk
+  number_educ: 0
+  personal_website: 
+
 - name: "This could be you !"
   photo: you-bio-photo.jpg
   info: See <a href="/join-our-lab">Join Our Lab</a> for more info.

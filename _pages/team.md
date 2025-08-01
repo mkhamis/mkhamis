@@ -393,7 +393,7 @@ permalink: /team/
 
 <div class="col-sm-4 clearfix">
 <h4>Interns</h4>
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.alumni_interns %}
 {{ member.name }}
 {% endfor %}
 </div>
