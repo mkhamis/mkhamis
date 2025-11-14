@@ -29,8 +29,10 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# plugins:
- # -  jekyll/scholar
+plugins:
+  - jekyll/scholar
+  - jekyll-redirect-from
+
 
 # Markdown Processing
 kramdown:
