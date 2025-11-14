@@ -6,6 +6,12 @@ sitemap: false
 permalink: /team/
 ---
 
+<script>
+  window.location.href = "https://sirius.glasgow.ac.uk/";
+</script>
+
+<p>If you are not redirected, <a href="https://sirius.glasgow.ac.uk/">click here</a>.</p>
+
 # Team Members
 
 
