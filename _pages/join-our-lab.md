@@ -5,6 +5,11 @@ excerpt: "Join our Lab"
 sitemap: false
 permalink: /join-our-lab
 ---
+<script>
+  window.location.href = "https://sirius.glasgow.ac.uk/";
+</script>
+
+<p>If you are not redirected, <a href="https://sirius.glasgow.ac.uk/join-our-lab/">click here</a>.</p>
 
 # Open positions
 
