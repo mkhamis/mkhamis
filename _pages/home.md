@@ -1,1 +1,5 @@
-redirect_to: https://sirius.glasgow.ac.uk/
+---
+title: Home
+permalink: /
+layout: home
+---
